@@ -274,3 +274,27 @@ Would you like guidance on any of these steps?
 
 ---
 
+_**User (2025-09-02 18:47Z)**_
+
+Parse error near line 32: no such table: facilites
+
+---
+
+_**Assistant**_
+
+The error "no such table: facilities" indicates that the SQL query is trying to access a table named `facilities` that doesn't exist in your database.
+
+### Steps to Resolve
+
+1. **Check Table Creation**: Ensure that the `facilities` table is created in your database. Look for a `CREATE TABLE` statement in your SQL scripts.
+
+2. **Verify Database Connection**: Make sure you are connected to the correct database where the `facilities` table should exist.
+
+3. **Check for Typos**: Ensure there are no typos in the table name in your SQL query.
+
+4. **Run Setup Scripts**: If the table is missing, you may need to run the setup scripts to create it.
+
+Would you like me to check your SQL files for the `CREATE TABLE` statement?
+
+---
+
