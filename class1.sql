@@ -8,3 +8,7 @@ multiline comments in SQL */
 select name, member_cost from facilities; 
 
 select first_name, last_name from members;
+
+/* doing math inside q uery */
+select name, monthly_maintenance / member_cost 
+from facilities;
