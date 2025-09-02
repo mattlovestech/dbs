@@ -1,0 +1,19 @@
+
+## GIT
+
+### Remote Push Guidance
+
+When pushing to a remote repository, follow these steps:
+
+1.  **Add the Remote Repository**: Use `git remote add origin <repository_url>` to link your local repository to the remote repository.
+2.  **Push to the Remote Repository**: Use `git push -u origin main` to push changes. The `-u` flag sets the upstream for the `main` branch, allowing future pushes with just `git push`. Replace `main` with your actual branch name if it differs.
+
+### Handling Push Rejections Due to Remote Changes
+
+If your `git push` is rejected due to remote repository changes not present locally:
+
+1.  **Pull Changes**: Run `git pull origin main` to fetch and merge remote changes into your local branch.
+2.  **Resolve Conflicts**: If merge conflicts arise, manually resolve them in the affected files.
+3.  **Stage Resolved Files**: Use `git add <file_with_conflict>` to stage the resolved files.
+4.  **Commit Merge**: Commit the merge with `git commit -m "Resolved merge conflicts"`.
+5.  **Push Again**: Finally, push your changes to the remote repository using `git push origin main`.

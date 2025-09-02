@@ -1,0 +1,50 @@
+---
+description: AI rules derived by SpecStory from the project AI interaction history
+globs: *
+---
+
+## GIT
+
+### Remote Push Guidance
+
+When pushing to a remote repository, follow these steps:
+
+1.  **Add the Remote Repository**: Use `git remote add origin <repository_url>` to link your local repository to the remote repository.
+2.  **Push to the Remote Repository**: Use `git push -u origin main` to push changes. The `-u` flag sets the upstream for the `main` branch, allowing future pushes with just `git push`. Replace `main` with your actual branch name if it differs.
+
+### Creating a New Branch and Pushing
+
+To avoid impacting current code, create a new branch, push it, and resolve merge conflicts in a pull request:
+
+1. **Create a New Branch**:
+   - Ensure you are on the correct branch to base the new branch on (e.g., `main`):
+     ```bash
+     git checkout main
+     ```
+   - Create the new branch:
+     ```bash
+     git checkout -b new-branch-name
+     ```
+   - Replace `new-branch-name` with a descriptive name.
+
+2. **Push the New Branch**:
+   ```bash
+   git push origin new-branch-name
+   ```
+
+3. **Create a Pull Request**:
+   - Go to the repository on GitHub.
+   - Create a pull request for the new branch.
+
+4. **Resolve Merge Conflicts**:
+   - Resolve conflicts directly on GitHub or locally.
+
+### Handling Push Rejections Due to Remote Changes
+
+If your `git push` is rejected due to remote repository changes not present locally:
+
+1.  **Pull Changes**: Run `git pull origin main` to fetch and merge remote changes into your local branch.
+2.  **Resolve Conflicts**: If merge conflicts arise, manually resolve them in the affected files.
+3.  **Stage Resolved Files**: Use `git add <file_with_conflict>` to stage the resolved files.
+4.  **Commit Merge**: Commit the merge with `git commit -m "Resolved merge conflicts"`.
+5.  **Push Again**: Finally, push your changes to the remote repository using `git push origin main`.
