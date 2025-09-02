@@ -40,3 +40,18 @@ where first_name = 'David';
 select name, monthly_maintenance 
 from facilities
 where monthly_maintenance > 200;
+
+select 
+    id, 
+    name,
+    member_cost,
+    monthly_maintenance 
+from facilities
+where 
+    (member_cost > 0) and 
+    (member_cost < (monthly_maintenance / 50));
+
+
+select * 
+from facilities
+where guest_cost > 5 and member_cost > 5;
