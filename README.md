@@ -16,8 +16,6 @@ All you need to get going.
 
 ## Run the Anaconda Installer
 
-There are several ways to install the software we'll need for this class on your computer. We'll be using a simple installer called Anaconda.
-
 Download the latest version of the Anaconda installer for Windows, OSX, or Linux (click the link to "Skip registration").
 Accept most of the defaults for installation (just click "Continue" or "Next" the whole way).
 Note: If you previously had an older version of Anaconda installed on your computer, you may run into issues trying to install it again. In that case, first follow these instructions to uninstall AnacondaLinks to an external site. before completing this step.
