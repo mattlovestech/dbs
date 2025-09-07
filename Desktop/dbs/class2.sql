@@ -64,4 +64,36 @@ facilities order by guest_cost
 asc limit 5; -- find the 5 cheapests facilities ascending from 0
 
 /* get a list of members ordered by join_date descending from most recent*/
-select * from members order by join_date desc;
+select * from members order by join_date desc; -- starts with most recent and goes to oldest
+
+/* case /when then end to create branching paths*/
+select name, 
+monthly_maintenance,
+    case 
+        when monthly_maintenance > 1000 then 'expensive'
+        when monthly_maintenance > 100 then 'average'
+        else 'cheap' --optional (default value is blank)
+    end as cost
+from facilities;
+
+/* 2.18 Challenge: Case Statements */
+/* get a list of all the members and add a column that indicates if they were recommended or not*/
+select first_name || ' ' || last_name as name,
+    case 
+        when recommended_by is not null then 'recommended'
+        else 'not recommended'
+    end as recommended_status
+from members;
+
+/* aggrega fucntions work on an entire column */
+select max(join_date) as latest from members; --this is the latest date and not the actual column
+
+/* 2.21 Challenge: Aggregate Functions */
+
+/* challenge = what is the most expensive facility to maintain on a monthly basis*/
+
+/* max monthly maintenance */
+select max(monthly_maintenance) as max_monthly_maintenance from facilities;
+
+/* records where monthly maintenance is the max */
+select * from facilities where monthly_maintenance = (select max(monthly_maintenance) from facilities);

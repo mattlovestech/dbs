@@ -1,0 +1,750 @@
+1,Victor,Harris,"1991-04-29 12:15:14.956621",3.95,738,6,Education/Government/Nonprofit,1,"United States"
+2,Victor,Taylor,"1998-01-18 06:15:14.957694",4.0,652,5,"Financial Services",1,Israel
+3,Victor,Parker,"1994-10-30 13:15:14.957717",3.36,669,7,"Real Estate",0,"United States"
+4,Samuel,Jones,"1996-03-03 01:15:14.957738",3.66,735,4,Retail,0,Argentina
+5,Samuel,Allen,"1997-06-21 02:15:14.957758",2.99,606,4,"Real Estate",0,"United States"
+6,Juan,Gonzalez,"1996-04-24 12:15:14.957776",3.61,800,2,Media/Technology,1,Chile
+7,Paul,King,"1990-11-16 10:15:14.957796",3.28,759,5,Other,0,Israel
+8,Paul,Johnson,"1987-07-30 16:15:14.957815",3.14,614,4,Manufacturing,0,Mexico
+9,Paul,Campbell,"1997-06-28 15:15:14.957834",2.82,800,5,Media/Technology,1,"United States"
+10,Mark,Robinson,"1998-02-22 03:15:14.957852",2.85,687,5,"Financial Services",0,"United States"
+11,Dakota,Williams,"1992-05-07 22:15:14.957870",3.73,736,6,Retail,0,"United States"
+12,Dakota,Turner,"1987-12-13 06:15:14.957889",2.84,706,7,Consulting,1,"United Kingom"
+13,Dustin,Brown,"1988-04-25 09:15:14.957907",4.0,599,7,Healthcare,1,"United States"
+14,Evan,Mitchell,"1993-10-07 07:15:14.957925",4.0,800,5,Manufacturing,0,Brazil
+15,Evan,Clark,"1990-08-01 03:15:14.957943",3.56,656,4,Consulting,0,"United States"
+16,Edward,Moore,"1997-09-17 06:15:14.957962",3.03,800,7,Consulting,1,"United States"
+17,Edward,Taylor,"1989-06-19 10:15:14.957980",3.64,706,8,Education/Government/Nonprofit,0,"United States"
+18,Edward,Garcia,"1996-09-18 22:15:14.957998",2.75,724,6,Consulting,0,"United States"
+19,Edward,Green,"1995-10-10 19:15:14.958015",3.47,800,6,Other,0,"South Korea"
+20,Edward,Wright,"1991-12-31 15:15:14.958033",3.83,749,7,Consulting,1,"United States"
+21,Edward,Gonzalez,"1991-10-12 15:15:14.958050",4.0,800,4,Healthcare,0,"United States"
+22,Edward,Garcia,"1997-03-21 09:15:14.958067",3.43,581,5,"Financial Services",1,Mexico
+23,Chase,Lewis,"1993-12-31 04:15:14.958084",4.0,782,7,Manufacturing,0,"United States"
+24,Chase,Rodriguez,"1994-05-20 07:15:14.958103",4.0,468,5,Manufacturing,1,"United States"
+25,Chase,Turner,"1996-10-07 13:15:14.958120",3.69,688,4,Media/Technology,0,"United States"
+26,Chase,Jones,"1995-12-02 18:15:14.958137",2.56,665,7,Healthcare,0,Israel
+27,Devin,Wright,"1990-03-10 18:15:14.958154",3.82,632,2,Education/Government/Nonprofit,0,Italy
+28,Devin,Green,"1993-09-13 04:15:14.958172",4.0,614,5,"Financial Services",1,Israel
+29,Richard,King,"1987-06-16 00:15:14.958189",3.93,548,5,Media/Technology,0,"United States"
+30,Carlos,Parker,"1991-03-31 20:15:14.958207",4.0,725,4,"Financial Services",1,Taiwan
+31,Jason,Clark,"1992-11-04 10:15:14.958224",3.12,727,4,"Real Estate",0,Italy
+32,Edward,White,"1996-10-05 23:15:14.958242",3.03,739,5,Manufacturing,1,Peru
+33,Edward,Roberts,"1988-11-19 19:15:14.958259",3.57,800,4,"Real Estate",1,Brazil
+34,Edward,Clark,"1993-04-28 17:15:14.958277",3.47,800,4,Education/Government/Nonprofit,1,Spain
+35,Edward,Garcia,"1989-10-01 13:15:14.958295",3.65,720,8,Media/Technology,1,Germany
+36,Edward,Lopez,"1995-12-27 01:15:14.958312",3.74,521,4,"Real Estate",1,France
+37,Garrett,Robinson,"1987-12-01 21:15:14.958329",3.55,634,9,Other,0,Brazil
+38,Garrett,Scott,"1993-12-14 12:15:14.958347",2.79,638,7,Education/Government/Nonprofit,1,"United States"
+39,Garrett,Parker,"1991-11-11 19:15:14.958364",3.79,720,5,Manufacturing,1,China
+40,Garrett,Adams,"1990-03-04 01:15:14.958381",3.63,800,8,Retail,0,"United States"
+41,Garrett,Jones,"1996-04-02 22:15:14.958398",3.41,761,3,Education/Government/Nonprofit,0,"United States"
+42,Garrett,Harris,"1989-05-03 19:15:14.958416",3.63,647,4,Media/Technology,0,China
+43,Robert,Harris,"1996-09-26 04:15:14.958433",3.59,724,8,Education/Government/Nonprofit,1,Peru
+44,Robert,Lopez,"1989-04-12 10:15:14.958450",3.66,714,7,Other,1,Japan
+45,Tyler,Wright,"1988-03-17 16:15:14.958467",4.0,505,7,"Real Estate",1,"United States"
+46,Richard,Walker,"1993-02-24 19:15:14.958484",3.18,681,11,Consulting,1,"South Africa"
+47,Richard,Thompson,"1993-02-18 12:15:14.958501",3.44,744,8,Retail,0,"United States"
+48,Trevor,Phillips,"1991-05-03 21:15:14.958519",3.41,723,4,Other,0,"United States"
+49,Taylor,Walker,"1990-06-17 22:15:14.958535",2.71,800,4,Other,0,"United States"
+50,Taylor,King,"1992-01-09 19:15:14.958553",3.2,703,4,Education/Government/Nonprofit,0,"South Africa"
+51,Taylor,Thompson,"1988-04-23 10:15:14.958570",4.0,696,4,Media/Technology,1,China
+52,Shane,Campbell,"1996-07-11 17:15:14.958587",2.87,509,9,Healthcare,1,China
+53,Shane,Lee,"1987-07-07 12:15:14.958605",4.0,800,6,"Real Estate",0,France
+54,Eric,Hill,"1991-08-05 04:15:14.958623",2.77,637,7,Manufacturing,0,"United States"
+55,Steven,Hernandez,"1991-05-18 09:15:14.958639",3.83,775,7,"Financial Services",0,"United States"
+56,Aaron,Williams,"1988-11-11 03:15:14.958656",4.0,581,5,Retail,0,Germany
+57,Eric,Lee,"1996-07-01 19:15:14.958675",3.38,693,5,Media/Technology,1,Peru
+58,Eric,Rodriguez,"1994-07-18 16:15:14.958693",3.86,454,4,Healthcare,0,Israel
+59,Chase,Martin,"1994-02-09 01:15:14.958710",3.55,662,5,"Real Estate",1,"United States"
+60,Chase,Anderson,"1989-12-16 07:15:14.958727",2.88,781,5,Healthcare,0,"South Korea"
+61,James,White,"1995-01-05 16:15:14.958744",3.5,713,5,Other,1,Japan
+62,Jacob,Jones,"1993-05-18 17:15:14.958762",4.0,775,7,Retail,1,"United States"
+63,Jacob,Adams,"1996-07-11 03:15:14.958778",3.84,633,2,Retail,0,"United States"
+64,Jacob,Lewis,"1993-03-02 22:15:14.958795",3.14,800,5,Consulting,0,"United States"
+65,Jacob,Walker,"1988-12-15 04:15:14.958813",3.51,567,3,"Real Estate",0,India
+66,Jordan,Jackson,"1991-01-26 11:15:14.958831",3.19,740,5,Consulting,0,"United States"
+67,Ethan,Edwards,"1998-02-14 21:15:14.958848",3.92,657,2,Manufacturing,1,China
+68,Ethan,Wright,"1996-06-18 01:15:14.958866",3.71,800,5,Education/Government/Nonprofit,0,Germany
+69,Ethan,Green,"1997-12-29 14:15:14.958883",3.64,723,4,Education/Government/Nonprofit,1,Mexico
+70,Jack,Lopez,"1992-01-22 07:15:14.958900",3.95,695,4,"Financial Services",0,Argentina
+71,Steven,Edwards,"1992-12-15 02:15:14.958917",3.81,705,8,Education/Government/Nonprofit,1,"United States"
+72,Steven,Scott,"1990-11-08 08:15:14.958935",3.12,748,5,Retail,1,"United States"
+73,Cameron,Green,"1990-08-03 08:15:14.958951",4.0,800,7,"Financial Services",0,"United States"
+74,Chase,Lee,"1996-04-17 21:15:14.958968",4.0,761,6,Manufacturing,1,China
+75,Christopher,Rodriguez,"1993-12-11 16:15:14.958986",3.92,797,7,Other,1,"United States"
+76,Christopher,Edwards,"1991-03-13 21:15:14.959003",3.52,800,5,"Financial Services",1,"United States"
+77,Christopher,Thompson,"1995-07-21 17:15:14.959020",3.41,674,8,Retail,1,"United States"
+78,Christopher,Moore,"1994-02-07 03:15:14.959039",2.94,632,5,Media/Technology,0,"United States"
+79,Jose,Gonzalez,"1993-08-08 15:15:14.959056",3.36,800,7,Media/Technology,0,Peru
+80,Jose,Mitchell,"1991-04-26 00:15:14.959073",3.28,800,3,Healthcare,0,"United States"
+81,Jose,Moore,"1990-07-05 09:15:14.959090",3.17,712,5,Media/Technology,0,Chile
+82,Christopher,White,"1990-03-10 21:15:14.959108",3.37,569,6,Media/Technology,0,China
+83,Luke,Anderson,"1992-09-21 06:15:14.959125",4.0,788,7,Consulting,1,Japan
+84,Gregory,Green,"1991-01-01 10:15:14.959142",3.64,800,6,"Financial Services",0,Chile
+85,Jose,Walker,"1996-10-04 11:15:14.959160",2.49,598,5,Retail,1,"United States"
+86,Daniel,Garcia,"1996-05-03 03:15:14.959177",3.95,683,4,"Real Estate",0,"United States"
+87,Daniel,Young,"1988-05-05 18:15:14.959194",3.12,800,8,Manufacturing,0,Canada
+88,Daniel,Johnson,"1989-04-06 13:15:14.959211",4.0,792,5,"Financial Services",0,"United States"
+89,Scott,Thompson,"1991-07-02 00:15:14.959227",3.9,683,8,Consulting,1,France
+90,David,Hernandez,"1990-08-22 04:15:14.959245",2.82,648,5,Other,1,China
+91,Brian,Green,"1991-02-17 02:15:14.959263",3.42,686,5,Education/Government/Nonprofit,1,China
+92,Timothy,Phillips,"1990-04-23 01:15:14.959280",3.55,657,5,"Real Estate",1,"United States"
+93,Timothy,Jackson,"1988-11-15 22:15:14.959297",3.96,800,6,Retail,0,"United States"
+94,Adrian,Mitchell,"1997-11-04 01:15:14.959316",3.25,800,7,Media/Technology,1,"United States"
+95,Adrian,White,"1991-06-12 00:15:14.959333",3.8,731,7,Consulting,0,"United States"
+96,Adrian,Baker,"1987-06-14 13:15:14.959351",3.37,642,4,Consulting,0,Peru
+97,Jason,Lopez,"1997-11-28 20:15:14.959371",3.58,793,5,"Financial Services",0,Canada
+98,Jason,Nelson,"1990-09-19 18:15:14.959389",2.88,800,3,"Financial Services",1,Phillipines
+99,Kevin,Williams,"1995-11-24 21:15:14.959406",3.52,632,8,Media/Technology,1,"United States"
+100,Charles,Collins,"1992-02-05 08:15:14.959423",4.0,761,7,Manufacturing,1,Israel
+101,Charles,Garcia,"1988-03-14 05:15:14.959440",3.26,739,3,Education/Government/Nonprofit,1,Canada
+102,Charles,Garcia,"1992-05-12 00:15:14.959457",2.38,750,8,"Real Estate",1,"United Kingom"
+103,Charles,Campbell,"1990-08-22 12:15:14.959475",3.37,516,4,Healthcare,0,"United States"
+104,Luis,Turner,"1992-01-14 07:15:14.959492",2.97,698,4,Other,1,"United States"
+105,Luis,Martin,"1989-01-17 04:15:14.959509",3.87,755,8,Manufacturing,0,"United States"
+106,Trevor,Carter,"1997-05-30 19:15:14.959526",3.3,659,7,Media/Technology,0,Spain
+107,Trevor,Phillips,"1994-12-03 13:15:14.959542",4.0,674,8,"Financial Services",1,Mexico
+108,Trevor,Green,"1997-10-06 04:15:14.959560",4.0,601,6,Manufacturing,0,"United States"
+109,Noah,Williams,"1997-02-28 15:15:14.959577",2.98,745,5,Healthcare,0,"United Kingom"
+110,Paul,Garcia,"1990-08-12 13:15:14.959599",3.46,591,7,Retail,1,"United States"
+111,Eric,Scott,"1991-11-22 22:15:14.959617",3.36,800,5,"Financial Services",1,"United States"
+112,Eric,Taylor,"1994-12-12 08:15:14.959634",3.11,800,5,Media/Technology,1,Chile
+113,Daniel,Phillips,"1991-05-13 00:15:14.959651",3.29,747,5,Manufacturing,1,"United States"
+114,Daniel,Smith,"1989-11-24 12:15:14.959668",3.53,609,3,Education/Government/Nonprofit,0,"United States"
+115,Daniel,Gonzalez,"1990-08-24 09:15:14.959685",2.63,788,1,Retail,1,Argentina
+116,Kevin,Garcia,"1995-04-19 17:15:14.959704",3.71,795,3,Consulting,1,"United States"
+117,Kevin,Miller,"1988-10-01 15:15:14.959720",3.14,567,5,Manufacturing,0,Mexico
+118,Jonathan,White,"1990-05-01 16:15:14.959738",3.57,444,4,"Financial Services",0,"United States"
+119,Victor,Lewis,"1993-02-22 11:15:14.959754",3.81,700,7,"Financial Services",0,"United States"
+120,Victor,Hernandez,"1993-01-26 01:15:14.959771",3.76,629,4,"Financial Services",0,"United States"
+121,Victor,Adams,"1989-03-12 10:15:14.959787",3.67,654,3,"Financial Services",0,"United States"
+122,Victor,Miller,"1988-11-13 20:15:14.959805",4.0,666,6,Media/Technology,0,"United States"
+123,Gregory,Hall,"1997-05-06 22:15:14.959823",3.9,608,8,Retail,0,Chile
+124,Gregory,Phillips,"1994-05-31 10:15:14.959841",3.42,763,5,Other,1,"United States"
+125,Jacob,Phillips,"1995-07-14 03:15:14.959858",3.88,727,6,"Real Estate",1,Taiwan
+126,Jacob,Brown,"1990-12-28 22:15:14.959875",4.0,739,7,Manufacturing,0,"United States"
+127,Jesus,Allen,"1997-12-29 12:15:14.959892",3.35,637,5,Media/Technology,0,"United States"
+128,Jesus,White,"1992-03-01 20:15:14.959909",2.89,780,3,Education/Government/Nonprofit,1,"United States"
+129,Andrew,Clark,"1990-03-07 08:15:14.959926",3.0,800,4,Consulting,1,"United States"
+130,Anthony,Lee,"1995-03-19 00:15:14.959945",3.9,789,8,Healthcare,1,"South Korea"
+131,Anthony,Rodriguez,"1991-02-15 12:15:14.959963",3.83,800,8,Retail,0,France
+132,Anthony,Martin,"1987-05-01 17:15:14.959981",4.0,684,8,Retail,1,"South Korea"
+133,Chase,Robinson,"1993-12-27 00:15:14.959998",3.77,800,7,Retail,1,"United States"
+134,Chase,Evans,"1997-09-16 02:15:14.960014",4.0,571,6,Manufacturing,0,Germany
+135,Thomas,Turner,"1988-08-23 04:15:14.960031",3.86,712,7,"Real Estate",0,Italy
+136,Adrian,Davis,"1995-02-14 10:15:14.960049",3.0,624,4,Manufacturing,1,India
+137,Adrian,Scott,"1993-12-27 13:15:14.960066",3.49,773,6,"Real Estate",0,China
+138,Adrian,Green,"1992-03-13 21:15:14.960083",3.74,732,4,Retail,0,"United States"
+139,Blake,Anderson,"1990-03-22 22:15:14.960100",3.68,800,2,"Financial Services",1,Germany
+140,Blake,Hall,"1993-09-12 12:15:14.960118",4.0,787,2,Consulting,1,France
+141,Adrian,Williams,"1988-01-05 15:15:14.960135",3.43,575,6,"Financial Services",0,"United States"
+142,Adrian,Martinez,"1996-05-27 19:15:14.960152",2.91,619,6,"Real Estate",1,Peru
+143,Spencer,Hill,"1995-08-23 17:15:14.960169",3.14,605,8,"Financial Services",0,"United States"
+144,Dustin,Wilson,"1988-05-05 02:15:14.960186",4.0,714,5,Retail,1,Chile
+145,Victor,Perez,"1996-07-31 22:15:14.960204",3.8,749,8,Consulting,0,Peru
+146,Cameron,Jones,"1997-05-19 23:15:14.960221",3.36,522,8,Retail,1,Germany
+147,Cameron,Nelson,"1993-04-28 16:15:14.960238",3.82,513,7,Healthcare,0,"United Kingom"
+148,Cameron,Taylor,"1995-05-07 05:15:14.960255",3.64,727,5,Manufacturing,1,"United States"
+149,Cameron,Robinson,"1993-12-03 01:15:14.960272",2.97,696,7,"Real Estate",0,Japan
+150,Cameron,Hall,"1995-11-25 20:15:14.960290",3.09,765,1,Other,0,Taiwan
+151,Cameron,Clark,"1989-08-27 15:15:14.960307",3.46,800,5,Other,0,Italy
+152,Cameron,Hall,"1987-05-16 10:15:14.960325",4.0,759,8,Healthcare,0,"United States"
+153,Lucas,Carter,"1994-02-15 18:15:14.960341",2.91,744,5,Education/Government/Nonprofit,0,France
+154,Lucas,Lee,"1991-04-24 23:15:14.960359",3.99,737,4,"Financial Services",1,"United States"
+155,Lucas,King,"1990-01-22 08:15:14.960375",4.0,717,4,Manufacturing,1,Spain
+156,Lucas,Scott,"1995-07-30 05:15:14.960393",3.83,721,8,Healthcare,0,Brazil
+157,Lucas,Garcia,"1994-06-19 20:15:14.960411",4.0,632,5,Media/Technology,1,"United Kingom"
+158,Nicholas,Allen,"1994-10-18 15:15:14.960428",3.45,687,6,Media/Technology,1,"United States"
+159,Nicholas,Gonzalez,"1991-11-15 04:15:14.960445",3.61,719,7,Consulting,0,"United States"
+160,Nicholas,Nelson,"1988-06-04 16:15:14.960464",3.84,796,5,Manufacturing,0,"United States"
+161,Andrew,Adams,"1992-10-24 22:15:14.960481",3.73,800,5,"Financial Services",0,Spain
+162,Evan,Hernandez,"1995-10-19 06:15:14.960499",3.64,747,6,Education/Government/Nonprofit,0,"United States"
+163,Evan,Martin,"1990-04-02 16:15:14.960515",4.0,697,3,Healthcare,1,Chile
+164,Evan,Williams,"1990-10-25 05:15:14.960533",3.35,742,9,Retail,1,"United States"
+165,Jack,King,"1997-01-29 09:15:14.960549",3.18,707,7,Other,0,"United States"
+166,Blake,Nelson,"1994-10-25 12:15:14.960566",4.0,667,4,Other,1,"United States"
+167,Blake,Anderson,"1994-03-30 22:15:14.960583",3.22,796,2,"Real Estate",0,"United States"
+168,Joseph,Hall,"1991-11-11 11:15:14.960600",3.32,736,4,Media/Technology,1,"United States"
+169,Joseph,White,"1993-03-20 21:15:14.960617",3.19,609,1,Media/Technology,1,"United States"
+170,Joseph,Moore,"1987-11-18 22:15:14.960634",3.4,613,8,"Financial Services",0,"United States"
+171,Jared,Jones,"1996-03-23 15:15:14.960651",4.0,790,5,Media/Technology,1,Chile
+172,Hunter,Phillips,"1987-07-03 18:15:14.960669",4.0,792,4,Other,1,Phillipines
+173,Hunter,Carter,"1987-08-03 08:15:14.960686",3.98,710,9,Healthcare,1,"United States"
+174,Hunter,Baker,"1990-01-08 08:15:14.960703",3.9,705,4,"Real Estate",1,France
+175,William,Nelson,"1993-06-17 01:15:14.960720",2.83,744,7,Other,0,Brazil
+176,William,Garcia,"1991-01-14 09:15:14.960738",3.4,585,3,Consulting,1,Italy
+177,Cameron,Thompson,"1987-10-11 11:15:14.960755",4.0,669,8,Other,0,"South Korea"
+178,Cameron,Campbell,"1990-06-10 10:15:14.960772",3.9,770,6,"Real Estate",1,"United States"
+179,Victor,Perez,"1989-09-18 12:15:14.960788",3.42,800,6,Other,1,"United States"
+180,Victor,Jones,"1988-04-30 20:15:14.960805",4.0,658,7,Other,1,Phillipines
+181,Victor,Lee,"1995-01-25 01:15:14.960822",4.0,618,7,Other,0,Taiwan
+182,Victor,Perez,"1988-06-14 19:15:14.960839",3.15,748,8,Education/Government/Nonprofit,0,"United States"
+183,Victor,Roberts,"1996-06-11 09:15:14.960855",3.51,744,3,"Real Estate",1,"United States"
+184,Victor,Rodriguez,"1995-04-26 03:15:14.960873",3.39,727,8,Media/Technology,0,"United States"
+185,Victor,Smith,"1990-12-24 11:15:14.960889",3.84,594,4,Other,1,"United States"
+186,Victor,Carter,"1990-12-13 12:15:14.960906",3.99,690,1,Healthcare,0,Japan
+187,Bradley,Edwards,"1998-01-19 07:15:14.960923",4.0,800,3,Other,1,Argentina
+188,Luke,Miller,"1996-02-27 12:15:14.960941",3.67,735,5,Media/Technology,0,Japan
+189,Luke,Walker,"1987-09-13 07:15:14.960958",3.1,770,5,"Real Estate",1,"United States"
+190,Luke,Taylor,"1992-09-06 16:15:14.960974",3.52,628,5,Manufacturing,0,Brazil
+191,Luke,Moore,"1996-11-29 01:15:14.960991",3.4,800,6,Media/Technology,1,Chile
+192,Luke,Gonzalez,"1991-08-11 11:15:14.961009",2.96,770,7,Other,1,"United States"
+193,Shawn,Harris,"1990-05-22 20:15:14.961027",3.45,788,7,Education/Government/Nonprofit,1,Canada
+194,Shawn,Rodriguez,"1993-11-20 08:15:14.961045",4.0,639,2,Healthcare,0,"United States"
+195,Jack,Lewis,"1991-09-18 11:15:14.961061",4.0,727,4,Consulting,0,Chile
+196,Daniel,Hill,"1996-11-26 02:15:14.961078",4.0,720,5,Media/Technology,0,"United States"
+197,Daniel,Lee,"1991-11-03 15:15:14.961094",3.54,725,2,Media/Technology,0,India
+198,Daniel,Turner,"1997-12-10 17:15:14.961112",3.55,758,6,Media/Technology,1,Taiwan
+199,Daniel,Baker,"1991-03-22 08:15:14.961129",3.93,639,9,Education/Government/Nonprofit,0,France
+200,Daniel,Parker,"1997-04-27 20:15:14.961146",4.0,800,8,"Real Estate",1,China
+201,Daniel,Young,"1990-10-07 14:15:14.961163",3.29,578,4,Other,1,China
+202,James,Thompson,"1997-05-29 01:15:14.961180",3.9,800,6,Education/Government/Nonprofit,0,"United States"
+203,James,White,"1993-04-07 06:15:14.961197",3.05,636,5,"Financial Services",0,"South Korea"
+204,James,Harris,"1991-09-18 15:15:14.961215",4.0,778,6,"Real Estate",0,"United States"
+205,Travis,Collins,"1995-04-23 22:15:14.961231",3.99,526,2,Media/Technology,0,Israel
+206,Christian,Edwards,"1994-09-09 07:15:14.961248",3.82,724,5,Retail,0,Phillipines
+207,Carlos,Walker,"1994-12-04 09:15:14.961266",3.85,800,2,Media/Technology,1,"South Africa"
+208,Marcus,Hernandez,"1994-11-12 05:15:14.961283",3.16,722,3,"Financial Services",1,"United States"
+209,Marcus,King,"1996-04-14 02:15:14.961300",4.0,434,5,Other,1,Brazil
+210,John,Lee,"1992-02-28 16:15:14.961317",3.93,772,5,Other,1,"United States"
+211,John,Brown,"1991-03-11 14:15:14.961334",3.28,561,6,Consulting,1,Peru
+212,Ryan,Lopez,"1991-03-24 21:15:14.961351",3.98,553,4,Manufacturing,1,"United States"
+213,Ryan,Hill,"1991-04-27 23:15:14.961368",3.56,800,4,"Financial Services",1,"United States"
+214,Ryan,Thomas,"1994-02-17 02:15:14.961385",4.0,668,7,Retail,0,Spain
+215,Ryan,Mitchell,"1991-01-16 20:15:14.961401",4.0,800,6,Consulting,0,France
+216,Ryan,Perez,"1990-08-01 23:15:14.961419",4.0,759,5,Consulting,0,"United States"
+217,Ryan,Baker,"1997-02-10 01:15:14.961435",4.0,800,6,"Financial Services",1,"United States"
+218,Devin,Gonzalez,"1992-07-02 21:15:14.961453",3.19,777,3,Healthcare,1,Phillipines
+219,Alex,Rodriguez,"1992-05-02 11:15:14.961470",4.0,591,4,Media/Technology,0,Germany
+220,Juan,Jackson,"1989-10-01 08:15:14.961487",3.68,800,0,Other,1,Phillipines
+221,Shawn,Hall,"1994-10-27 03:15:14.961504",4.0,751,3,Consulting,0,"United States"
+222,Jared,Martinez,"1988-08-12 22:15:14.961521",3.73,695,6,Consulting,0,Canada
+223,Jared,Mitchell,"1991-07-30 06:15:14.961538",4.0,778,3,Consulting,0,Mexico
+224,Jared,Taylor,"1998-02-13 00:15:14.961555",3.91,751,5,Healthcare,0,Canada
+225,Jared,Roberts,"1995-01-14 11:15:14.961572",3.91,716,7,Manufacturing,0,France
+226,Travis,Harris,"1987-12-29 21:15:14.961590",2.71,704,4,Manufacturing,0,"United States"
+227,Jesse,Johnson,"1996-04-03 18:15:14.961606",3.18,646,8,Manufacturing,0,Mexico
+228,Cameron,Lewis,"1997-08-06 06:15:14.961624",3.1,800,8,Consulting,1,Canada
+229,Christopher,Carter,"1996-02-16 22:15:14.961641",3.65,682,5,Other,0,"United States"
+230,David,Moore,"1990-09-17 03:15:14.961659",3.71,794,8,Other,0,"United States"
+231,David,Johnson,"1991-09-23 06:15:14.961677",3.55,626,9,Education/Government/Nonprofit,0,"United Kingom"
+232,Jeffrey,Campbell,"1991-04-29 06:15:14.961694",3.35,800,5,Retail,0,"United States"
+233,Jose,Robinson,"1996-09-18 09:15:14.961711",3.23,522,7,Other,0,"United States"
+234,Jose,Taylor,"1987-03-20 20:15:14.961728",3.55,800,6,Healthcare,0,Israel
+235,Zachary,Mitchell,"1993-05-08 06:15:14.961745",3.86,636,10,"Real Estate",1,France
+236,Zachary,Johnson,"1997-05-27 06:15:14.961762",3.54,697,6,"Financial Services",0,"United States"
+237,Zachary,Lopez,"1987-06-10 15:15:14.961778",3.25,628,7,Media/Technology,0,Brazil
+238,Mitchell,Phillips,"1992-05-31 22:15:14.961796",3.79,697,2,Healthcare,1,Canada
+239,Mitchell,Brown,"1988-06-17 10:15:14.961813",3.53,627,5,Consulting,0,Japan
+240,Lucas,Hill,"1990-10-19 19:15:14.961830",3.83,796,5,Education/Government/Nonprofit,0,Taiwan
+241,Seth,Wright,"1992-12-05 09:15:14.961848",3.84,645,2,Other,1,"United States"
+242,Seth,Roberts,"1997-02-11 18:15:14.961865",4.0,800,4,Retail,1,"United States"
+243,Seth,Clark,"1997-06-03 16:15:14.961882",3.97,726,8,Education/Government/Nonprofit,1,Italy
+244,Seth,Mitchell,"1994-10-11 21:15:14.961899",3.35,617,6,Healthcare,0,Japan
+245,Seth,Parker,"1991-10-07 03:15:14.961916",3.42,723,5,Retail,1,Chile
+246,Dylan,Williams,"1995-06-18 19:15:14.961933",4.0,735,3,"Real Estate",1,Argentina
+247,Dylan,Young,"1994-02-16 00:15:14.961951",3.87,748,3,Other,1,Mexico
+248,Jeremy,Jackson,"1988-12-28 00:15:14.961968",3.59,672,2,Consulting,1,Peru
+249,Jeremy,Campbell,"1997-09-10 17:15:14.961985",3.5,712,5,Manufacturing,1,Italy
+250,Trevor,Williams,"1990-03-16 16:15:14.962002",3.22,578,4,Media/Technology,1,"South Africa"
+251,Trevor,Jones,"1997-08-19 01:15:14.962019",4.0,776,6,"Financial Services",0,"United States"
+252,Dylan,Gonzalez,"1987-12-10 23:15:14.962037",3.43,784,7,Other,1,"United States"
+253,Dylan,Phillips,"1990-01-14 22:15:14.962054",3.4,738,2,"Real Estate",0,"United States"
+254,Edward,Hill,"1987-03-18 23:15:14.962071",3.75,636,7,Retail,0,"United States"
+255,Edward,Green,"1992-08-03 17:15:14.962087",3.73,800,3,Education/Government/Nonprofit,0,Peru
+256,Jack,Young,"1989-03-15 12:15:14.962105",3.86,427,7,"Real Estate",1,"United Kingom"
+257,Jack,Thomas,"1996-08-25 12:15:14.962122",4.0,699,7,"Financial Services",0,"South Africa"
+258,Matthew,Mitchell,"1997-08-15 06:15:14.962140",3.41,800,6,Education/Government/Nonprofit,0,Chile
+259,Matthew,Nelson,"1989-01-12 16:15:14.962157",3.91,569,8,Consulting,0,"United States"
+260,Jesse,Robinson,"1995-02-14 22:15:14.962174",3.76,800,5,"Financial Services",0,"South Korea"
+261,Jesse,Hill,"1995-08-16 11:15:14.962190",4.0,767,6,Education/Government/Nonprofit,0,"United States"
+262,Corey,Nelson,"1991-11-12 00:15:14.962207",3.77,586,5,Manufacturing,0,"United States"
+263,Corey,Jackson,"1994-04-05 11:15:14.962223",3.25,800,4,Manufacturing,0,Japan
+264,David,Gonzalez,"1989-01-12 14:15:14.962241",3.73,693,7,Manufacturing,0,France
+265,David,Hernandez,"1988-11-03 20:15:14.962260",3.65,693,6,Other,1,Taiwan
+266,David,Nelson,"1987-07-17 18:15:14.962277",4.0,800,9,Education/Government/Nonprofit,1,"United States"
+267,Jeffrey,Harris,"1997-12-10 16:15:14.962294",3.22,647,3,Education/Government/Nonprofit,0,Phillipines
+268,Jeffrey,Anderson,"1990-12-11 03:15:14.962311",4.0,649,10,Media/Technology,0,"United States"
+269,Jeffrey,Nelson,"1987-08-10 04:15:14.962327",3.39,760,8,Retail,1,Italy
+270,Jeffrey,Allen,"1989-07-18 18:15:14.962345",3.64,778,5,Education/Government/Nonprofit,1,"United States"
+271,Jeffrey,Gonzalez,"1993-12-11 04:15:14.962363",4.0,800,5,"Financial Services",0,"United States"
+272,Jose,Lopez,"1996-05-30 04:15:14.962380",2.94,702,8,Media/Technology,0,"United States"
+273,Evan,Thomas,"1994-03-26 15:15:14.962397",3.61,610,7,Healthcare,0,"United States"
+274,Nicholas,Adams,"1993-09-27 09:15:14.962414",3.46,527,6,"Real Estate",0,"United States"
+275,Nicholas,Carter,"1994-04-10 11:15:14.962430",4.0,780,7,"Financial Services",0,"United States"
+276,Nicholas,Martin,"1995-06-12 12:15:14.962447",3.05,738,5,Manufacturing,0,China
+277,John,Smith,"1992-04-18 17:15:14.962464",3.41,800,4,Media/Technology,1,Argentina
+278,John,Thomas,"1988-02-21 22:15:14.962481",3.59,746,6,"Real Estate",1,"United States"
+279,John,Clark,"1995-03-24 02:15:14.962498",3.75,760,5,Retail,1,"United States"
+280,Logan,Thompson,"1990-02-26 01:15:14.962514",3.85,730,5,"Financial Services",1,Argentina
+281,Logan,Young,"1989-11-19 19:15:14.962531",3.97,661,7,Manufacturing,0,Germany
+282,Luis,Lopez,"1997-08-05 16:15:14.962549",3.21,730,4,Retail,0,Brazil
+283,Luis,Phillips,"1988-11-17 08:15:14.962566",4.0,735,8,"Real Estate",0,Taiwan
+284,Luis,Jones,"1990-01-20 22:15:14.962583",3.69,650,7,"Real Estate",0,China
+285,Seth,Green,"1990-06-05 01:15:14.962600",4.0,800,4,Healthcare,0,"United States"
+286,Seth,Gonzalez,"1989-01-22 00:15:14.962617",4.0,640,5,"Real Estate",0,Spain
+287,Seth,Lopez,"1988-11-08 05:15:14.962633",3.1,666,6,Consulting,1,"United States"
+288,Seth,Hernandez,"1991-09-27 14:15:14.962651",3.78,777,3,"Financial Services",0,"United States"
+289,Ian,Garcia,"1991-07-09 15:15:14.962668",3.8,753,6,Healthcare,0,Italy
+290,Edward,Baker,"1992-02-15 17:15:14.962686",3.58,717,5,Consulting,1,"United States"
+291,Kenneth,Taylor,"1997-03-01 12:15:14.962702",3.04,778,8,"Financial Services",0,"United States"
+292,Andrew,Wright,"1987-10-15 14:15:14.962719",4.0,702,5,Healthcare,0,"United States"
+293,Andrew,King,"1996-02-29 08:15:14.962735",3.45,790,0,Consulting,0,"United States"
+294,Jesse,Wilson,"1988-03-14 22:15:14.962752",3.96,766,5,Manufacturing,1,"United States"
+295,Patrick,Carter,"1991-02-03 01:15:14.962768",3.71,456,3,Manufacturing,1,Spain
+296,Derek,Scott,"1990-11-23 00:15:14.962786",4.0,779,7,Other,0,"United States"
+297,Benjamin,Collins,"1990-01-21 10:15:14.962802",3.02,755,2,Manufacturing,1,Israel
+298,Alexander,Carter,"1993-06-23 02:15:14.962820",3.66,789,7,"Real Estate",0,"United States"
+299,Derek,Thompson,"1992-10-18 04:15:14.962838",3.48,423,4,Education/Government/Nonprofit,1,"United States"
+300,Derek,Hernandez,"1990-02-04 00:15:14.962855",4.0,621,8,Education/Government/Nonprofit,1,"United States"
+301,Andrew,King,"1992-02-09 13:15:14.962871",3.11,800,5,Healthcare,1,"United States"
+302,Corey,Hernandez,"1992-03-20 17:15:14.962888",3.1,567,6,Healthcare,1,Chile
+303,Corey,Roberts,"1989-01-08 04:15:14.962905",4.0,800,8,Other,0,"United States"
+304,Corey,Hill,"1994-12-21 13:15:14.962921",3.31,761,4,Consulting,1,"United States"
+305,Corey,Davis,"1988-11-21 08:15:14.962938",3.34,800,6,Other,1,Japan
+306,Joshua,Adams,"1992-12-29 22:15:14.962955",3.26,656,6,Consulting,1,"United States"
+307,Kenneth,Parker,"1998-02-12 18:15:14.962971",3.98,800,9,Media/Technology,1,"United States"
+308,Connor,Allen,"1990-09-15 21:15:14.962989",4.0,747,7,Other,0,"United States"
+309,Connor,Phillips,"1995-04-11 12:15:14.963005",4.0,789,7,Consulting,1,"United States"
+310,Hunter,Carter,"1991-01-02 00:15:14.963022",4.0,701,5,Education/Government/Nonprofit,0,"United States"
+311,Hunter,Parker,"1998-02-02 22:15:14.963038",3.81,738,7,Manufacturing,0,China
+312,Hunter,Thompson,"1992-03-24 13:15:14.963055",2.99,768,8,Retail,0,"United States"
+313,Jared,Turner,"1994-08-26 11:15:14.963071",3.52,687,3,"Real Estate",1,"United States"
+314,Jared,Evans,"1994-05-05 17:15:14.963089",3.91,792,4,Education/Government/Nonprofit,1,"United States"
+315,Charles,Campbell,"1993-02-16 10:15:14.963105",3.55,740,5,"Real Estate",0,Israel
+316,Eric,Nelson,"1988-08-13 15:15:14.963122",3.6,800,9,Other,1,India
+317,Luke,Clark,"1992-01-18 07:15:14.963139",3.79,658,5,Retail,1,Phillipines
+318,Ethan,Hill,"1996-12-26 13:15:14.963157",3.59,701,5,Healthcare,1,"United States"
+319,Ethan,Roberts,"1987-04-10 20:15:14.963173",3.52,757,7,Healthcare,0,"United States"
+320,Ethan,Campbell,"1989-04-05 03:15:14.963191",3.9,632,7,"Financial Services",1,China
+321,Ethan,Miller,"1988-12-01 17:15:14.963208",3.62,617,4,Media/Technology,1,"United States"
+322,Gregory,Wilson,"1992-11-02 21:15:14.963225",3.33,601,6,Consulting,0,Taiwan
+323,Marcus,King,"1988-11-14 15:15:14.963242",4.0,749,6,Media/Technology,1,"South Korea"
+324,Marcus,Lee,"1993-09-22 06:15:14.963259",4.0,800,8,Media/Technology,0,Phillipines
+325,Derek,Moore,"1991-11-05 13:15:14.963276",3.64,800,4,Retail,0,"United States"
+326,Timothy,Campbell,"1987-10-15 00:15:14.963293",3.35,711,8,"Real Estate",1,Japan
+327,Andrew,Walker,"1997-12-05 09:15:14.963310",3.84,776,7,"Financial Services",1,"United States"
+328,Samuel,Moore,"1995-08-17 21:15:14.963328",4.0,800,3,Manufacturing,1,China
+329,Lucas,Lee,"1993-05-17 20:15:14.963345",3.24,645,6,Retail,1,Chile
+330,Lucas,Parker,"1993-12-13 00:15:14.963363",3.16,800,6,Manufacturing,0,"United States"
+331,Lucas,Robinson,"1987-04-18 20:15:14.963382",3.63,669,5,Other,0,"United States"
+332,Lucas,Wilson,"1990-03-26 02:15:14.963399",3.92,561,4,Other,1,"United States"
+333,Lucas,Taylor,"1996-07-11 04:15:14.963416",3.64,666,6,Healthcare,0,"United States"
+334,Alex,Turner,"1992-08-04 17:15:14.963433",4.0,749,6,"Real Estate",0,"United States"
+335,Marcus,Lewis,"1990-04-13 22:15:14.963449",3.09,622,2,Education/Government/Nonprofit,1,Chile
+336,Marcus,Miller,"1992-11-24 21:15:14.963467",3.52,765,2,"Real Estate",1,"United States"
+337,Patrick,King,"1991-12-29 04:15:14.963483",3.89,618,5,Education/Government/Nonprofit,0,"United States"
+338,Jason,Walker,"1997-05-16 11:15:14.963501",2.61,581,8,Retail,1,"United States"
+339,Taylor,White,"1990-09-29 10:15:14.963517",4.0,668,7,Other,0,Canada
+340,Adrian,Davis,"1989-06-10 09:15:14.963534",3.19,689,6,Media/Technology,1,"United States"
+341,John,Young,"1990-04-14 06:15:14.963550",4.0,622,4,"Financial Services",0,"United States"
+342,Isaac,Garcia,"1996-07-13 18:15:14.963567",3.19,786,8,"Financial Services",1,"United States"
+343,Isaac,Anderson,"1990-01-10 19:15:14.963583",3.45,739,5,"Financial Services",1,"United States"
+344,Garrett,Campbell,"1990-12-04 13:15:14.963600",2.32,716,6,"Real Estate",0,"United States"
+345,Garrett,Wilson,"1987-09-14 22:15:14.963617",3.61,800,6,Education/Government/Nonprofit,1,"United States"
+346,Garrett,Parker,"1996-03-12 08:15:14.963633",3.55,800,5,"Real Estate",0,"United States"
+347,Garrett,Nelson,"1997-10-30 22:15:14.963650",2.75,619,7,Retail,0,"United States"
+348,Garrett,Harris,"1993-03-08 03:15:14.963667",3.88,800,6,Other,1,Peru
+349,William,Lee,"1990-11-25 18:15:14.963684",3.03,800,7,"Financial Services",1,China
+350,Jack,Jones,"1990-05-03 17:15:14.963701",3.84,800,4,"Real Estate",1,Phillipines
+351,Matthew,Turner,"1997-12-27 00:15:14.963719",2.92,764,6,"Real Estate",0,India
+352,Garrett,White,"1987-12-21 12:15:14.963736",3.41,800,2,"Financial Services",0,Israel
+353,Chase,Parker,"1995-03-04 17:15:14.963753",3.31,758,4,Healthcare,1,Germany
+354,Chase,Brown,"1996-01-08 00:15:14.963770",3.74,453,3,Healthcare,0,"United States"
+355,Chase,White,"1993-11-27 23:15:14.963787",3.54,746,5,"Real Estate",0,Mexico
+356,David,Adams,"1990-03-30 02:15:14.963804",3.36,800,5,Media/Technology,0,"United States"
+357,Benjamin,Wright,"1994-10-05 04:15:14.963821",3.37,698,5,Other,0,India
+358,Benjamin,Roberts,"1997-12-20 19:15:14.963838",3.83,800,8,Retail,1,"United States"
+359,Michael,Johnson,"1989-04-05 01:15:14.963860",4.0,720,8,Consulting,1,"South Korea"
+360,Michael,Smith,"1996-08-22 12:15:14.963879",2.89,672,4,Consulting,1,"United States"
+361,Michael,Anderson,"1994-12-24 03:15:14.963897",3.46,676,7,Manufacturing,0,"United States"
+362,Brian,Adams,"1995-09-03 08:15:14.963914",2.69,765,5,"Financial Services",1,"South Africa"
+363,Brian,Nelson,"1993-03-20 20:15:14.963931",4.0,800,5,Media/Technology,0,"United Kingom"
+364,Brian,Taylor,"1998-02-12 12:15:14.963948",4.0,518,4,Consulting,0,Mexico
+365,Brian,Lewis,"1988-09-05 11:15:14.963965",3.26,761,7,Manufacturing,1,"United States"
+366,Mark,Walker,"1995-10-30 08:15:14.963982",3.77,800,3,Consulting,1,"United States"
+367,Mark,King,"1991-01-07 04:15:14.963998",3.61,792,9,"Financial Services",0,"United States"
+368,Mark,Lewis,"1990-11-15 23:15:14.964015",4.0,769,8,"Financial Services",0,"United States"
+369,Samuel,Roberts,"1994-10-13 15:15:14.964031",3.22,707,2,"Financial Services",1,Germany
+370,Garrett,Parker,"1994-12-14 22:15:14.964048",3.93,733,6,Healthcare,0,"United States"
+371,Kenneth,Roberts,"1988-06-11 22:15:14.964065",3.33,793,9,"Financial Services",0,France
+372,Michael,Campbell,"1987-10-05 00:15:14.964082",3.82,751,4,Education/Government/Nonprofit,1,Japan
+373,Nathaniel,Moore,"1990-01-01 12:15:14.964099",4.0,624,6,"Financial Services",0,"South Africa"
+374,William,Green,"1992-12-17 17:15:14.964116",3.71,782,3,Other,1,Israel
+375,William,Green,"1988-03-28 08:15:14.964133",3.56,602,4,Media/Technology,1,"United States"
+376,James,Moore,"1987-05-18 08:15:14.964150",3.95,745,7,Consulting,1,"United States"
+377,James,Baker,"1992-12-15 01:15:14.964166",3.83,800,6,Manufacturing,1,Phillipines
+378,Juan,Adams,"1991-08-10 04:15:14.964184",3.51,696,8,Education/Government/Nonprofit,1,"United States"
+379,Juan,Perez,"1988-10-01 19:15:14.964200",3.35,754,4,"Financial Services",1,Israel
+380,Taylor,Wilson,"1992-08-19 01:15:14.964218",4.0,770,3,"Financial Services",0,"United States"
+381,Taylor,Garcia,"1988-05-16 12:15:14.964234",3.81,664,8,Healthcare,0,Phillipines
+382,Taylor,Davis,"1990-03-31 22:15:14.964251",4.0,788,5,"Real Estate",0,Spain
+383,Christian,Davis,"1990-10-09 00:15:14.964268",3.52,800,6,Consulting,0,Italy
+384,Jordan,Wright,"1990-08-12 13:15:14.964285",2.65,800,5,Healthcare,1,France
+385,Jordan,Phillips,"1990-06-12 03:15:14.964302",2.88,800,5,Retail,0,Canada
+386,Jordan,Taylor,"1996-09-24 12:15:14.964320",4.0,800,8,Other,1,"United States"
+387,Jordan,Gonzalez,"1989-02-13 02:15:14.964336",3.81,704,3,Healthcare,0,Israel
+388,Jordan,Garcia,"1997-03-01 09:15:14.964355",4.0,800,7,Other,1,"United States"
+389,Jeremy,Collins,"1988-03-30 23:15:14.964372",3.22,638,3,Retail,1,"United States"
+390,Logan,Jackson,"1989-02-18 03:15:14.964389",3.81,585,10,"Real Estate",0,"United States"
+391,Logan,Wilson,"1996-08-18 20:15:14.964406",4.0,800,6,Consulting,1,"United States"
+392,Logan,Hall,"1992-01-19 19:15:14.964423",3.29,800,5,Healthcare,1,"United States"
+393,Aaron,Garcia,"1994-08-30 17:15:14.964439",3.9,779,6,Manufacturing,1,"United States"
+394,Jack,Lee,"1988-12-01 08:15:14.964456",3.42,736,5,Consulting,1,China
+395,Kyle,Edwards,"1996-03-23 07:15:14.964473",3.56,659,7,Other,0,"United States"
+396,Jared,Brown,"1995-09-18 19:15:14.964490",3.58,800,5,Healthcare,1,"United States"
+397,Gabriel,Mitchell,"1993-02-17 04:15:14.964506",3.34,596,7,"Financial Services",1,Italy
+398,Gabriel,Martinez,"1990-11-23 06:15:14.964524",3.65,746,7,"Financial Services",1,"United States"
+399,Carlos,Martin,"1997-10-10 21:15:14.964540",3.17,794,5,Education/Government/Nonprofit,0,"United States"
+400,Carlos,Moore,"1989-01-10 18:15:14.964557",4.0,757,8,Manufacturing,0,"United States"
+401,Stephen,Gonzalez,"1992-02-10 11:15:14.964574",3.99,800,5,Consulting,1,"United States"
+402,Devin,Wilson,"1997-09-20 08:15:14.964592",3.6,699,5,Media/Technology,0,Spain
+403,Devin,Walker,"1997-04-17 00:15:14.964610",3.25,707,9,Consulting,0,Canada
+404,Devin,Allen,"1989-06-25 13:15:14.964628",3.3,800,3,Other,0,"United States"
+405,Andrew,Scott,"1989-04-28 14:15:14.964645",4.0,721,4,Media/Technology,1,Germany
+406,Andrew,Collins,"1993-04-11 09:15:14.964663",4.0,683,4,Retail,1,Italy
+407,Nathaniel,Moore,"1995-04-14 22:15:14.964679",3.34,674,4,"Real Estate",0,Taiwan
+408,Nathaniel,Parker,"1989-11-24 08:15:14.964697",2.92,740,5,"Real Estate",0,"United States"
+409,Nathaniel,Wright,"1988-04-11 06:15:14.964714",4.0,625,10,Media/Technology,0,"United States"
+410,Mitchell,Turner,"1992-05-17 22:15:14.964732",3.39,795,10,Retail,0,"United States"
+411,Paul,Parker,"1991-08-01 09:15:14.964748",2.73,774,4,"Financial Services",1,"United States"
+412,Paul,Lopez,"1989-03-20 13:15:14.964767",3.64,664,7,Manufacturing,1,"United States"
+413,Paul,Turner,"1991-03-04 23:15:14.964785",3.5,631,9,"Financial Services",1,"United States"
+414,Paul,Allen,"1989-05-07 01:15:14.964803",3.2,551,4,Consulting,0,"United States"
+415,Paul,Mitchell,"1988-04-24 13:15:14.964822",3.76,642,4,"Financial Services",1,Japan
+416,Paul,Campbell,"1996-12-18 04:15:14.964841",3.95,596,7,Media/Technology,1,"United States"
+417,Luke,Hill,"1994-03-09 09:15:14.964858",3.32,690,8,Healthcare,1,Japan
+418,Luke,Collins,"1993-08-06 08:15:14.964876",3.92,768,5,Consulting,1,"United States"
+419,Luke,Wright,"1991-09-13 20:15:14.964894",3.66,537,6,Other,1,"South Korea"
+420,Luke,Walker,"1989-06-21 08:15:14.964912",4.0,800,7,Consulting,0,"United States"
+421,Taylor,Jackson,"1991-04-15 17:15:14.964929",3.66,721,5,Healthcare,1,"United States"
+422,Taylor,Martinez,"1991-11-06 12:15:14.964947",4.0,621,5,"Real Estate",1,Taiwan
+423,Gabriel,Lopez,"1994-04-21 20:15:14.964965",4.0,740,6,Media/Technology,0,"United States"
+424,Gabriel,Rodriguez,"1996-07-01 22:15:14.964982",3.36,800,4,Manufacturing,1,Canada
+425,Gabriel,Lopez,"1998-02-12 12:15:14.965000",4.0,596,7,Healthcare,1,"United States"
+426,Jason,Parker,"1990-10-14 10:15:14.965018",3.45,800,5,Other,1,Brazil
+427,Jason,Allen,"1992-09-13 19:15:14.965036",3.65,676,9,Other,1,China
+428,Gabriel,Collins,"1995-02-13 22:15:14.965054",3.74,762,5,Retail,1,"United States"
+429,Shane,Davis,"1988-05-15 09:15:14.965072",3.18,596,3,"Financial Services",0,"United States"
+430,Shane,Smith,"1987-09-11 22:15:14.965090",4.0,658,5,Healthcare,1,"United States"
+431,William,King,"1987-03-02 16:15:14.965107",3.45,800,5,Education/Government/Nonprofit,0,"United States"
+432,Bradley,Lee,"1996-07-16 04:15:14.965126",2.86,745,4,Other,0,"United States"
+433,Patrick,Edwards,"1987-09-02 08:15:14.965143",2.93,728,4,Manufacturing,0,"United States"
+434,Victor,Young,"1989-08-29 04:15:14.965161",3.72,655,6,Manufacturing,0,Japan
+435,Alex,Hall,"1994-02-17 05:15:14.965178",3.45,776,6,Consulting,1,"United States"
+436,Alex,Garcia,"1997-11-05 12:15:14.965195",3.21,651,6,Other,1,"United Kingom"
+437,Alex,Edwards,"1987-09-05 13:15:14.965212",3.69,698,3,Media/Technology,0,"United States"
+438,Alex,Gonzalez,"1989-02-13 18:15:14.965229",3.39,800,9,Retail,1,"South Africa"
+439,Nicholas,Robinson,"1996-03-04 01:15:14.965246",3.66,681,4,Other,0,Taiwan
+440,Nicholas,Allen,"1992-07-23 01:15:14.965264",3.18,744,7,Retail,1,Taiwan
+441,Nicholas,Wilson,"1987-08-13 15:15:14.965280",3.46,655,6,"Real Estate",0,"United States"
+442,Nicholas,Adams,"1991-11-03 09:15:14.965297",2.64,754,5,Retail,1,Argentina
+443,Jeffrey,Roberts,"1991-08-14 19:15:14.965316",3.94,745,6,Manufacturing,0,"United States"
+444,Timothy,Nelson,"1992-11-22 04:15:14.965333",3.3,754,5,"Financial Services",0,"United States"
+445,Steven,Gonzalez,"1994-03-05 00:15:14.965350",4.0,752,6,Education/Government/Nonprofit,0,China
+446,Kyle,Hall,"1991-06-24 22:15:14.965368",4.0,644,7,Other,0,Israel
+447,Alexander,Miller,"1988-01-16 08:15:14.965385",3.2,706,6,"Financial Services",0,"South Korea"
+448,Alexander,Davis,"1991-08-18 23:15:14.965403",2.67,800,3,Other,1,"United States"
+449,Marcus,Scott,"1988-07-22 15:15:14.965420",3.93,672,5,"Real Estate",0,Brazil
+450,Marcus,Parker,"1995-08-06 13:15:14.965437",4.0,608,4,Manufacturing,1,"United States"
+451,Jeremy,White,"1987-04-16 18:15:14.965453",3.88,661,6,Retail,0,Germany
+452,Jeremy,Wilson,"1998-02-17 21:15:14.965471",3.51,702,6,Education/Government/Nonprofit,1,"United Kingom"
+453,Isaac,Wilson,"1993-09-05 03:15:14.965487",3.89,684,3,Manufacturing,1,Japan
+454,William,Lopez,"1991-05-31 16:15:14.965505",3.74,762,6,Media/Technology,1,Japan
+455,Bryan,Johnson,"1994-02-27 03:15:14.965522",3.53,591,11,Media/Technology,1,"United States"
+456,Blake,Brown,"1990-05-21 10:15:14.965539",3.76,700,7,"Real Estate",0,Mexico
+457,Blake,Jackson,"1988-05-28 11:15:14.965556",4.0,663,6,Other,1,"United States"
+458,Blake,Parker,"1995-12-10 11:15:14.965573",3.92,680,5,Consulting,1,Argentina
+459,Blake,Miller,"1991-03-12 02:15:14.965590",2.94,618,5,Healthcare,1,"United States"
+460,Kyle,Wilson,"1993-11-21 12:15:14.965607",3.15,749,3,"Financial Services",0,Taiwan
+461,Gregory,Mitchell,"1993-02-17 07:15:14.965624",3.56,625,4,Consulting,0,"United States"
+462,Adrian,Jackson,"1996-08-20 20:15:14.965641",3.85,768,9,"Real Estate",0,"United States"
+463,Adrian,Lewis,"1997-01-15 22:15:14.965658",3.67,612,3,"Financial Services",0,Spain
+464,Adrian,Baker,"1997-04-17 17:15:14.965676",3.18,766,6,Healthcare,1,"United States"
+465,Adrian,Gonzalez,"1990-05-01 13:15:14.965692",3.05,664,5,Manufacturing,1,China
+466,Bryan,Hall,"1990-02-14 22:15:14.965709",3.75,800,5,Healthcare,1,"United States"
+467,Luke,Taylor,"1992-10-28 18:15:14.965725",3.24,512,6,Education/Government/Nonprofit,0,"United States"
+468,Luke,Anderson,"1995-04-02 08:15:14.965743",3.31,697,7,Retail,1,"United States"
+469,Jeffrey,Hill,"1992-12-02 20:15:14.965759",3.24,695,6,Retail,0,"United States"
+470,Jeffrey,Williams,"1991-03-24 10:15:14.965776",3.9,590,6,Retail,1,China
+471,Bradley,Brown,"1995-02-15 10:15:14.965794",3.17,800,5,Retail,0,"United States"
+472,Jack,Jackson,"1997-08-31 01:15:14.965810",3.74,800,8,Media/Technology,0,"United States"
+473,Jack,Taylor,"1989-10-01 05:15:14.965827",3.88,800,3,Media/Technology,1,Mexico
+474,Jeremy,Green,"1988-03-13 16:15:14.965844",3.59,700,7,"Financial Services",0,"United States"
+475,Luke,Martinez,"1989-10-25 08:15:14.965861",3.51,681,6,"Financial Services",1,"United States"
+476,Luke,Lopez,"1993-06-28 20:15:14.965879",3.61,736,8,"Real Estate",1,"United States"
+477,Luke,Roberts,"1994-11-11 09:15:14.965895",3.91,633,6,Healthcare,1,Chile
+478,Peter,White,"1993-08-29 13:15:14.965913",3.04,685,4,Healthcare,1,"United States"
+479,Kevin,Hernandez,"1990-05-01 23:15:14.965929",3.59,609,4,Manufacturing,0,"South Africa"
+480,Charles,Moore,"1994-10-23 10:15:14.965946",3.62,760,4,Healthcare,1,"United States"
+481,Zachary,Scott,"1989-04-17 07:15:14.965963",2.96,800,4,Retail,0,"United States"
+482,Antonio,White,"1988-07-03 02:15:14.965980",4.0,408,2,Consulting,0,"South Korea"
+483,Charles,Garcia,"1997-01-31 23:15:14.965997",3.82,717,8,Other,0,Argentina
+484,Charles,Garcia,"1992-01-13 15:15:14.966014",2.96,700,6,Healthcare,1,Phillipines
+485,Patrick,Davis,"1997-06-10 03:15:14.966030",4.0,793,10,Healthcare,1,"South Africa"
+486,Jesse,Jackson,"1988-05-21 20:15:14.966048",3.65,744,3,Other,0,Germany
+487,Hunter,Young,"1994-01-22 03:15:14.966065",3.77,719,6,Healthcare,1,Germany
+488,Hunter,Martinez,"1991-12-18 01:15:14.966082",3.94,722,4,Retail,1,Mexico
+489,Hunter,Garcia,"1997-07-24 16:15:14.966099",4.0,662,3,Healthcare,1,"United States"
+490,Zachary,Hill,"1996-08-19 03:15:14.966116",4.0,715,6,Healthcare,0,Japan
+491,Zachary,Anderson,"1987-04-29 21:15:14.966133",4.0,730,3,Other,1,"United States"
+492,Zachary,Lee,"1995-09-02 00:15:14.966149",3.89,563,8,Manufacturing,1,"United States"
+493,Zachary,Carter,"1991-04-02 15:15:14.966166",3.81,800,2,Media/Technology,1,"South Africa"
+494,Caleb,Turner,"1998-01-19 19:15:14.966184",4.0,800,7,"Financial Services",1,"United States"
+495,Kyle,Hall,"1992-11-11 01:15:14.966200",4.0,514,8,Manufacturing,1,"South Korea"
+496,Dylan,Hernandez,"1995-08-24 18:15:14.966217",4.0,770,9,Other,1,"United States"
+497,Logan,Adams,"1994-11-16 16:15:14.966234",2.63,631,7,Media/Technology,0,Taiwan
+498,Logan,Campbell,"1992-11-22 15:15:14.966251",4.0,800,6,Consulting,0,Phillipines
+499,Edward,White,"1992-05-27 05:15:14.966267",3.73,612,4,"Real Estate",1,"United States"
+500,Justin,Lewis,"1993-05-28 18:15:14.966284",4.0,688,4,Education/Government/Nonprofit,0,"United States"
+501,Jeremy,Smith,"1987-04-10 10:15:14.966300",3.74,556,7,Consulting,1,Taiwan
+502,Jeremy,Walker,"1988-01-29 06:15:14.966318",4.0,548,6,Consulting,0,Germany
+503,Jeremy,Nelson,"1991-01-05 10:15:14.966334",4.0,748,6,Retail,1,"United States"
+504,Edward,Williams,"1996-06-26 22:15:14.966351",3.47,780,5,Healthcare,0,"South Korea"
+505,Edward,Evans,"1987-03-04 19:15:14.966370",3.39,800,3,Healthcare,1,"United States"
+506,Edward,Mitchell,"1988-02-27 03:15:14.966387",3.57,717,4,Other,1,"United States"
+507,Chase,Phillips,"1994-10-30 02:15:14.966403",3.92,692,4,Retail,0,Phillipines
+508,Chase,White,"1991-12-18 19:15:14.966421",3.73,715,8,Media/Technology,0,Peru
+509,Dustin,Martinez,"1997-01-27 16:15:14.966438",3.82,793,6,Manufacturing,1,"United States"
+510,Dustin,Johnson,"1995-06-15 22:15:14.966455",3.74,722,7,Other,1,Brazil
+511,Dustin,King,"1995-04-26 12:15:14.966471",4.0,638,6,Other,1,"United States"
+512,Blake,King,"1997-01-07 07:15:14.966488",3.48,800,9,"Financial Services",0,"United States"
+513,Blake,Carter,"1989-04-08 18:15:14.966504",3.66,781,7,Consulting,1,"United States"
+514,Benjamin,Wilson,"1991-07-24 03:15:14.966521",3.34,800,9,Other,0,"United Kingom"
+515,Nicholas,King,"1990-08-11 04:15:14.966538",2.78,752,7,Other,0,Japan
+516,Marcus,Nelson,"1997-09-13 22:15:14.966555",4.0,800,6,Consulting,1,Chile
+517,Marcus,Smith,"1997-02-27 14:15:14.966572",3.81,777,6,Retail,0,"United States"
+518,Miguel,Taylor,"1994-01-21 19:15:14.966589",3.71,727,5,"Financial Services",0,Mexico
+519,Trevor,Martin,"1996-06-30 21:15:14.966606",3.08,644,3,"Financial Services",1,"United States"
+520,Trevor,Jones,"1996-02-28 22:15:14.966623",4.0,449,3,"Real Estate",1,Canada
+521,Adrian,Collins,"1987-09-29 07:15:14.966639",3.43,648,8,Education/Government/Nonprofit,0,India
+522,Miguel,Martin,"1987-09-12 08:15:14.966657",3.93,650,7,Media/Technology,1,Argentina
+523,Miguel,Baker,"1992-01-01 01:15:14.966673",3.54,611,4,Healthcare,0,"United States"
+524,Miguel,Young,"1997-02-11 05:15:14.966690",3.79,780,5,Manufacturing,0,"United States"
+525,Jesus,Gonzalez,"1990-03-15 19:15:14.966706",3.67,677,6,Retail,0,Chile
+526,Chase,Smith,"1990-11-09 00:15:14.966724",3.44,780,4,Consulting,1,Brazil
+527,Chase,Edwards,"1988-07-21 22:15:14.966741",3.19,705,8,"Real Estate",0,"United States"
+528,Chase,Hernandez,"1996-04-04 19:15:14.966757",4.0,800,6,Other,0,"United States"
+529,Chase,Robinson,"1997-08-26 08:15:14.966774",3.19,567,4,Retail,1,Peru
+530,Jordan,Thomas,"1989-12-08 16:15:14.966791",4.0,720,6,"Financial Services",0,Brazil
+531,Taylor,Miller,"1996-08-04 19:15:14.966808",2.72,715,9,Consulting,0,Japan
+532,Zachary,Clark,"1997-12-28 16:15:14.966825",3.67,754,3,Other,1,Germany
+533,Daniel,Campbell,"1989-01-06 09:15:14.966844",3.46,800,5,Manufacturing,0,"United States"
+534,Daniel,Miller,"1988-08-21 14:15:14.966861",3.39,763,2,"Real Estate",0,"United States"
+535,Daniel,Evans,"1997-02-19 07:15:14.966877",3.22,599,7,"Financial Services",1,"United States"
+536,Christopher,King,"1996-04-08 20:15:14.966894",4.0,645,5,Manufacturing,1,"United States"
+537,Christopher,Johnson,"1993-02-10 17:15:14.966912",3.74,659,6,Retail,0,"United States"
+538,Christopher,Brown,"1991-12-25 08:15:14.966929",2.8,547,6,Other,1,Israel
+539,Christopher,Roberts,"1994-07-24 02:15:14.966946",2.85,800,4,"Real Estate",1,"United States"
+540,Christopher,King,"1996-09-13 23:15:14.966963",4.0,757,2,Education/Government/Nonprofit,0,Spain
+541,Seth,Parker,"1992-08-03 13:15:14.966981",3.71,612,5,Healthcare,0,"United States"
+542,Anthony,Martinez,"1989-05-22 22:15:14.966999",2.91,742,5,"Real Estate",0,"United States"
+543,Carlos,Wilson,"1989-08-02 00:15:14.967016",4.0,692,6,Other,0,"United States"
+544,Carlos,Lee,"1991-03-06 02:15:14.967033",3.41,713,4,"Financial Services",0,Mexico
+545,Trevor,Lee,"1993-11-27 05:15:14.967049",4.0,800,4,"Financial Services",1,"United States"
+546,Daniel,Jones,"1994-02-27 15:15:14.967066",3.45,800,3,Retail,1,Italy
+547,Nathaniel,Collins,"1990-12-23 11:15:14.967083",4.0,698,6,Other,1,Chile
+548,Jesus,Baker,"1989-05-06 16:15:14.967100",3.53,684,4,Healthcare,1,"United States"
+549,Jesus,Carter,"1997-05-19 18:15:14.967117",3.17,614,9,Healthcare,0,Peru
+550,Trevor,Campbell,"1991-04-05 22:15:14.967134",3.98,639,7,Other,1,"United States"
+551,Trevor,Hill,"1993-03-06 21:15:14.967150",3.72,800,4,Other,0,"United States"
+552,Evan,Hill,"1993-06-11 05:15:14.967167",4.0,596,7,Healthcare,1,"United States"
+553,Evan,Lee,"1992-04-08 00:15:14.967183",3.77,775,1,Consulting,1,"United States"
+554,Evan,Harris,"1989-03-16 22:15:14.967200",3.99,682,8,Manufacturing,0,"United States"
+555,Aaron,King,"1990-11-29 11:15:14.967217",3.22,640,7,Other,1,"United States"
+556,Aaron,Edwards,"1995-04-18 19:15:14.967234",3.67,753,5,Education/Government/Nonprofit,0,"South Korea"
+557,Aaron,Brown,"1988-07-13 18:15:14.967250",3.07,753,3,Consulting,1,"South Korea"
+558,Aaron,Jackson,"1993-12-11 21:15:14.967268",4.0,644,6,Healthcare,0,Taiwan
+559,David,Carter,"1992-11-01 11:15:14.967285",4.0,546,11,Manufacturing,1,"United States"
+560,Andrew,Edwards,"1993-03-15 20:15:14.967302",3.31,741,6,Consulting,0,Phillipines
+561,Andrew,Smith,"1995-07-11 05:15:14.967318",3.47,719,9,Other,1,Brazil
+562,Michael,Robinson,"1997-03-27 13:15:14.967336",2.93,610,5,Education/Government/Nonprofit,1,Brazil
+563,Michael,Carter,"1997-04-17 19:15:14.967352",3.36,631,4,Retail,1,"South Africa"
+564,Michael,Wilson,"1989-08-29 16:15:14.967370",3.22,656,5,"Real Estate",1,"United States"
+565,Michael,King,"1997-05-06 01:15:14.967386",3.84,770,6,"Real Estate",0,"United States"
+566,Michael,Williams,"1993-07-06 22:15:14.967404",4.0,773,6,"Financial Services",0,Taiwan
+567,Michael,Hall,"1987-06-14 21:15:14.967420",3.32,715,5,Other,1,India
+568,Andrew,Roberts,"1988-12-29 21:15:14.967438",2.92,653,6,"Real Estate",0,"United States"
+569,Andrew,Lee,"1987-07-23 22:15:14.967454",3.09,677,6,Media/Technology,0,"United States"
+570,Andrew,Lewis,"1997-01-31 00:15:14.967472",4.0,603,6,Healthcare,1,Israel
+571,Andrew,Williams,"1992-02-20 20:15:14.967489",3.62,800,4,"Financial Services",0,"United States"
+572,Samuel,Young,"1989-04-23 19:15:14.967507",3.87,668,8,Media/Technology,0,"United States"
+573,Samuel,Perez,"1990-12-17 23:15:14.967523",4.0,727,8,Media/Technology,1,Brazil
+574,Samuel,Lee,"1997-05-17 02:15:14.967540",3.23,800,5,Other,0,"United States"
+575,Adrian,Robinson,"1994-07-18 03:15:14.967557",3.55,719,5,Healthcare,1,Italy
+576,Adrian,Martinez,"1995-01-11 18:15:14.967575",3.68,660,4,"Real Estate",1,"United States"
+577,Adrian,Carter,"1988-10-16 12:15:14.967591",3.71,800,6,Other,1,"South Africa"
+578,Adrian,Phillips,"1997-05-29 22:15:14.967610",3.94,585,6,Retail,1,"United States"
+579,Shawn,Phillips,"1990-05-06 20:15:14.967627",3.79,709,4,Retail,0,"United States"
+580,Shawn,Johnson,"1990-11-22 20:15:14.967647",3.97,775,4,Education/Government/Nonprofit,1,"United States"
+581,Shawn,Davis,"1989-01-19 09:15:14.967663",3.9,522,6,Consulting,1,"South Korea"
+582,Luis,Campbell,"1989-03-16 07:15:14.967681",3.38,642,8,Healthcare,1,Taiwan
+583,Luis,Turner,"1997-11-09 21:15:14.967697",4.0,641,4,Manufacturing,1,"United States"
+584,Noah,Jackson,"1997-02-14 10:15:14.967714",4.0,800,8,"Real Estate",1,"United States"
+585,Samuel,Wright,"1989-09-22 15:15:14.967730",3.27,800,2,Retail,1,"United States"
+586,Patrick,Perez,"1997-10-14 17:15:14.967747",3.62,800,6,Consulting,0,Brazil
+587,Ryan,King,"1991-02-06 19:15:14.967764",4.0,795,5,Consulting,1,Spain
+588,Ryan,Jones,"1989-01-20 09:15:14.967781",3.54,632,6,Media/Technology,0,"United States"
+589,Ryan,Roberts,"1995-01-28 09:15:14.967797",3.86,658,4,"Financial Services",1,"South Korea"
+590,Benjamin,Scott,"1997-12-14 22:15:14.967814",4.0,800,5,Consulting,1,Japan
+591,Benjamin,Garcia,"1994-07-29 02:15:14.967831",4.0,577,5,Retail,0,"South Africa"
+592,Cameron,Gonzalez,"1992-06-06 08:15:14.967848",3.28,740,4,Other,1,"United States"
+593,Cameron,Harris,"1994-02-27 09:15:14.967865",3.21,753,5,Other,0,Italy
+594,Cameron,Perez,"1990-03-17 06:15:14.967882",3.89,728,5,Education/Government/Nonprofit,1,"United States"
+595,Cameron,Phillips,"1994-07-11 22:15:14.967899",3.47,652,7,Retail,1,"United States"
+596,Evan,Scott,"1994-09-01 11:15:14.967915",3.27,566,4,Education/Government/Nonprofit,0,"United States"
+597,Patrick,Jones,"1988-11-23 22:15:14.967932",3.52,800,6,Healthcare,1,Germany
+598,Shane,Baker,"1993-10-30 03:15:14.967949",2.98,610,9,Media/Technology,1,"United States"
+599,John,King,"1987-07-09 23:15:14.967966",3.25,754,3,Other,1,"United States"
+600,Adam,Brown,"1994-08-08 22:15:14.967982",3.62,679,5,"Financial Services",0,Peru
+601,Charles,Adams,"1994-12-23 02:15:14.968000",3.47,800,8,Consulting,0,"United States"
+602,Thomas,Campbell,"1996-11-22 22:15:14.968017",3.84,790,4,Other,0,"United States"
+603,Thomas,Jackson,"1991-05-29 17:15:14.968035",3.98,665,2,Other,0,"United States"
+604,Thomas,Wilson,"1992-09-18 19:15:14.968052",3.42,800,10,Education/Government/Nonprofit,1,"United States"
+605,Thomas,Perez,"1990-08-19 14:15:14.968069",3.68,800,6,Manufacturing,0,"United States"
+606,Isaac,Miller,"1996-06-08 18:15:14.968086",3.89,676,3,Healthcare,1,Canada
+607,Mitchell,Allen,"1989-10-06 02:15:14.968102",3.89,714,4,Healthcare,1,Chile
+608,Hunter,Miller,"1990-09-15 04:15:14.968119",4.0,604,6,Other,1,"United Kingom"
+609,Hunter,Anderson,"1989-08-31 17:15:14.968136",4.0,575,3,Media/Technology,1,France
+610,Austin,Roberts,"1997-02-14 03:15:14.968153",3.38,623,8,Consulting,0,Phillipines
+611,Nathaniel,Walker,"1989-08-05 23:15:14.968170",3.31,792,4,Healthcare,1,Argentina
+612,Dylan,Moore,"1990-03-27 04:15:14.968187",3.86,760,4,Education/Government/Nonprofit,0,"United States"
+613,Dylan,Parker,"1987-06-17 10:15:14.968204",3.48,763,7,Education/Government/Nonprofit,0,Mexico
+614,Dylan,Evans,"1997-03-14 07:15:14.968221",3.04,794,5,Education/Government/Nonprofit,1,Chile
+615,Joshua,Green,"1998-01-25 13:15:14.968238",3.61,650,3,Education/Government/Nonprofit,1,"United States"
+616,Stephen,Adams,"1996-12-15 19:15:14.968255",3.54,800,4,Healthcare,1,Phillipines
+617,Shane,Walker,"1996-03-03 12:15:14.968272",4.0,748,6,Retail,0,"United States"
+618,Shane,Parker,"1997-08-08 10:15:14.968289",3.59,753,3,"Financial Services",0,"United States"
+619,Shane,Miller,"1991-10-16 19:15:14.968305",3.88,749,5,Healthcare,1,"United States"
+620,Shane,Turner,"1988-09-08 16:15:14.968322",4.0,722,5,Consulting,0,"United States"
+621,Shane,Hill,"1997-03-01 22:15:14.968339",3.43,590,5,"Real Estate",0,"United States"
+622,Shane,Wright,"1994-11-11 09:15:14.968355",3.81,797,4,Retail,1,France
+623,Christian,Young,"1989-05-07 03:15:14.968372",3.33,770,8,Education/Government/Nonprofit,0,France
+624,Christian,Jones,"1994-06-27 22:15:14.968389",3.05,678,4,"Real Estate",0,"United States"
+625,Dakota,Lopez,"1996-11-21 05:15:14.968406",3.23,800,2,"Financial Services",0,Canada
+626,Dakota,Evans,"1995-01-27 14:15:14.968423",3.93,740,5,"Real Estate",1,Argentina
+627,Jason,Miller,"1995-05-02 19:15:14.968440",4.0,800,8,Manufacturing,0,"South Africa"
+628,Caleb,Wilson,"1993-01-05 02:15:14.968457",2.8,610,4,Manufacturing,1,Mexico
+629,Caleb,Wilson,"1997-11-12 00:15:14.968474",4.0,800,7,"Financial Services",0,"United States"
+630,Alex,Harris,"1994-11-11 10:15:14.968491",2.84,798,5,Healthcare,1,"United States"
+631,Alex,Martinez,"1992-01-17 17:15:14.968507",3.43,467,8,Other,0,Chile
+632,Jesse,Baker,"1996-05-25 13:15:14.968524",3.77,538,8,Consulting,1,Germany
+633,Jesse,Parker,"1990-08-10 08:15:14.968541",3.63,725,4,Media/Technology,1,Canada
+634,Jesse,Williams,"1997-07-28 17:15:14.968558",3.31,748,6,Retail,1,"United States"
+635,Thomas,Perez,"1990-03-02 13:15:14.968575",2.91,786,8,Healthcare,0,"United States"
+636,Adrian,Hill,"1990-12-05 07:15:14.968593",3.32,591,6,"Real Estate",0,"United States"
+637,Antonio,Brown,"1996-11-23 21:15:14.968609",3.56,800,4,Other,1,Spain
+638,Brian,Williams,"1992-02-16 14:15:14.968627",3.18,800,2,"Real Estate",1,Mexico
+639,Richard,Smith,"1997-03-24 19:15:14.968645",2.92,800,6,Consulting,1,"United States"
+640,Cameron,Williams,"1988-02-08 20:15:14.968661",4.0,791,5,Healthcare,1,"United States"
+641,Noah,Williams,"1995-05-05 14:15:14.968678",4.0,621,7,Manufacturing,1,"United States"
+642,Juan,Nelson,"1997-05-13 04:15:14.968694",4.0,708,4,"Real Estate",1,Brazil
+643,Jose,Rodriguez,"1997-12-12 01:15:14.968711",3.19,683,5,"Financial Services",1,Spain
+644,Jose,Rodriguez,"1991-06-05 21:15:14.968728",2.99,755,5,Education/Government/Nonprofit,0,"United States"
+645,Caleb,Moore,"1988-01-24 13:15:14.968745",4.0,800,5,Manufacturing,0,Chile
+646,Caleb,Scott,"1993-03-18 04:15:14.968762",3.69,683,4,"Financial Services",1,"United States"
+647,Kevin,Carter,"1988-11-15 10:15:14.968779",4.0,697,1,Healthcare,0,Italy
+648,Kevin,Evans,"1988-11-25 22:15:14.968796",2.87,682,4,"Financial Services",0,"United States"
+649,Kevin,Lewis,"1997-12-11 20:15:14.968812",4.0,790,4,Retail,1,Phillipines
+650,Kevin,Garcia,"1996-04-18 06:15:14.968829",3.07,732,8,"Real Estate",0,Chile
+651,Kevin,Anderson,"1997-01-31 19:15:14.968846",3.58,800,5,"Financial Services",0,Chile
+652,Jared,Williams,"1987-07-13 19:15:14.968864",3.04,800,7,Media/Technology,0,Mexico
+653,Jared,Rodriguez,"1994-07-06 22:15:14.968880",4.0,622,6,"Financial Services",0,"United States"
+654,Jared,Green,"1989-02-01 05:15:14.968897",3.69,650,7,"Financial Services",1,Canada
+655,Nathaniel,Walker,"1993-07-19 02:15:14.968914",3.85,671,9,Education/Government/Nonprofit,0,"South Korea"
+656,Nathaniel,Lewis,"1997-10-26 05:15:14.968931",3.58,800,4,Other,1,Peru
+657,Nathaniel,Davis,"1994-10-04 13:15:14.968948",4.0,665,3,Education/Government/Nonprofit,1,"United States"
+658,Andrew,Harris,"1989-05-15 06:15:14.968964",3.58,612,8,"Real Estate",0,"United States"
+659,Andrew,King,"1991-03-26 03:15:14.968981",3.9,761,3,Manufacturing,1,"United States"
+660,Dustin,Campbell,"1987-07-01 06:15:14.968998",3.42,741,8,Healthcare,0,India
+661,Antonio,Thompson,"1993-06-22 05:15:14.969014",3.04,731,6,Healthcare,0,"United Kingom"
+662,Antonio,Hernandez,"1994-03-21 19:15:14.969031",4.0,755,3,Education/Government/Nonprofit,1,"United States"
+663,Derek,Parker,"1994-01-12 00:15:14.969048",3.18,700,4,Manufacturing,1,"United States"
+664,Anthony,Moore,"1992-09-04 02:15:14.969065",3.45,709,1,Healthcare,1,"United States"
+665,Luke,King,"1996-06-05 22:15:14.969081",3.46,800,4,Consulting,1,Chile
+666,John,Green,"1988-09-18 18:15:14.969099",3.08,719,4,Other,1,"United States"
+667,John,Jones,"1991-12-18 06:15:14.969115",4.0,647,5,Manufacturing,1,"United States"
+668,John,King,"1989-06-13 21:15:14.969132",3.88,800,5,Media/Technology,1,Germany
+669,John,Collins,"1989-01-21 19:15:14.969150",3.82,777,4,"Real Estate",0,"United States"
+670,John,Allen,"1989-02-06 22:15:14.969167",3.37,800,3,Consulting,0,"United States"
+671,John,Scott,"1993-05-16 08:15:14.969183",3.7,800,3,"Financial Services",1,Peru
+672,Jordan,Lopez,"1992-07-12 03:15:14.969201",4.0,670,6,Healthcare,1,"United States"
+673,Jordan,Scott,"1987-11-27 17:15:14.969217",4.0,748,5,Education/Government/Nonprofit,0,France
+674,Jordan,Wilson,"1993-01-08 22:15:14.969235",4.0,711,7,Education/Government/Nonprofit,0,"United States"
+675,Hunter,Moore,"1987-11-04 11:15:14.969251",3.25,665,6,Consulting,1,Chile
+676,Hunter,Wilson,"1997-05-01 10:15:14.969268",4.0,800,5,"Real Estate",0,"United States"
+677,Hunter,Jackson,"1990-02-22 20:15:14.969285",3.16,629,4,Consulting,0,Taiwan
+678,Hunter,Evans,"1995-05-05 21:15:14.969302",3.7,768,9,Retail,1,Mexico
+679,Hunter,White,"1987-12-24 19:15:14.969319",2.97,693,2,Consulting,1,Brazil
+680,Hunter,Moore,"1997-01-14 05:15:14.969336",3.36,800,4,Healthcare,1,Italy
+681,Hunter,Thompson,"1992-09-14 11:15:14.969353",3.48,753,5,Manufacturing,1,India
+682,Tyler,Anderson,"1997-12-15 17:15:14.969370",3.3,774,7,Education/Government/Nonprofit,0,Spain
+683,Tyler,Green,"1995-04-30 09:15:14.969390",3.24,800,9,Healthcare,0,"United States"
+684,Ethan,Evans,"1996-11-24 00:15:14.969407",3.3,739,6,Consulting,0,"United States"
+685,Alex,Jones,"1991-05-28 12:15:14.969424",4.0,800,2,Healthcare,0,"United Kingom"
+686,Alex,Adams,"1995-08-08 15:15:14.969441",3.49,704,4,"Real Estate",1,Brazil
+687,Alex,Harris,"1990-12-13 17:15:14.969458",3.44,594,7,Consulting,1,"South Africa"
+688,Alex,Green,"1994-09-30 13:15:14.969475",3.61,636,6,Retail,1,Spain
+689,Bradley,Gonzalez,"1990-11-02 11:15:14.969492",4.0,797,5,Retail,0,Chile
+690,Antonio,Evans,"1991-11-21 17:15:14.969510",3.81,607,5,"Financial Services",1,Italy
+691,Evan,Martin,"1997-04-27 09:15:14.969527",3.6,800,6,Manufacturing,1,China
+692,Evan,Adams,"1991-08-15 14:15:14.969544",4.0,636,5,Education/Government/Nonprofit,1,Canada
+693,Evan,Wilson,"1994-05-07 19:15:14.969560",2.98,677,3,Healthcare,1,"South Korea"
+694,Matthew,Green,"1990-01-06 21:15:14.969578",3.47,623,5,Manufacturing,0,"United States"
+695,Christopher,Hall,"1993-03-23 03:15:14.969594",2.72,608,7,"Real Estate",1,"United States"
+696,Ethan,Miller,"1996-12-02 20:15:14.969611",3.77,800,5,Consulting,1,Germany
+697,Timothy,Lewis,"1992-03-30 05:15:14.969628",4.0,800,7,Manufacturing,0,"United States"
+698,Timothy,Carter,"1989-12-22 12:15:14.969644",3.48,623,6,"Real Estate",1,"United States"
+699,Timothy,Evans,"1996-05-08 22:15:14.969661",3.8,800,7,Consulting,1,Canada
+700,Matthew,Harris,"1991-08-07 02:15:14.969678",4.0,759,3,"Financial Services",1,Taiwan
+701,Matthew,Young,"1994-08-20 04:15:14.969695",4.0,694,9,Other,0,"United States"
+702,Matthew,Rodriguez,"1991-10-29 07:15:14.969712",3.69,800,6,Consulting,0,Japan
+703,Derek,Phillips,"1987-07-22 18:15:14.969730",3.92,536,7,Healthcare,0,Spain
+704,Derek,Collins,"1989-03-26 09:15:14.969747",3.84,696,6,Manufacturing,1,Mexico
+705,Derek,Johnson,"1994-11-25 22:15:14.969764",3.87,800,5,Retail,0,Brazil
+706,Derek,White,"1991-10-23 08:15:14.969781",3.94,663,7,Other,0,"United States"
+707,Antonio,Walker,"1996-08-07 22:15:14.969798",3.58,702,5,Healthcare,1,"United States"
+708,Antonio,Campbell,"1993-05-28 22:15:14.969814",3.97,739,6,"Financial Services",1,"United States"
+709,Edward,Scott,"1993-09-13 03:15:14.969830",3.4,585,8,Manufacturing,0,Chile
+710,Shane,White,"1995-12-21 04:15:14.969848",3.84,692,6,"Real Estate",0,Italy
+711,Dakota,Garcia,"1989-07-18 11:15:14.969866",3.92,800,8,"Real Estate",0,"United States"
+712,Dakota,Wright,"1990-08-30 16:15:14.969883",3.84,720,8,Retail,1,"United Kingom"
+713,Dakota,Lee,"1992-03-23 18:15:14.969900",4.0,670,6,"Financial Services",0,Peru
+714,Antonio,Campbell,"1991-05-06 07:15:14.969917",2.98,800,6,Retail,1,Phillipines
+715,Antonio,Robinson,"1987-04-22 12:15:14.969934",3.92,800,6,Healthcare,0,Japan
+716,Nathaniel,Harris,"1988-10-09 17:15:14.969952",3.42,800,5,"Financial Services",0,Mexico
+717,Nathaniel,Anderson,"1990-02-12 11:15:14.969968",2.9,760,4,"Real Estate",0,"South Korea"
+718,Nathaniel,Robinson,"1993-10-07 18:15:14.969986",3.76,670,7,Education/Government/Nonprofit,1,Phillipines
+719,Nathaniel,White,"1991-07-26 19:15:14.970002",4.0,794,4,Media/Technology,0,Israel
+720,Nathaniel,Rodriguez,"1992-10-16 22:15:14.970019",4.0,748,5,"Real Estate",0,"United States"
+721,Nathaniel,Robinson,"1997-08-03 22:15:14.970035",4.0,451,3,Manufacturing,0,"United States"
+722,Nathaniel,Clark,"1995-11-06 11:15:14.970052",3.55,749,5,"Financial Services",1,"United Kingom"
+723,Nathaniel,Garcia,"1989-06-18 09:15:14.970068",2.85,631,7,Media/Technology,0,China
+724,Cameron,Miller,"1995-12-22 14:15:14.970086",2.99,800,6,Media/Technology,0,"United States"
+725,Cameron,Robinson,"1990-08-15 07:15:14.970103",3.55,614,3,Healthcare,0,Spain
+726,Cameron,Martinez,"1997-01-07 23:15:14.970120",3.5,800,4,Manufacturing,0,Chile
+727,Cameron,King,"1987-09-05 15:15:14.970137",4.0,614,4,Media/Technology,0,"United States"
+728,Cameron,Evans,"1996-08-04 14:15:14.970154",3.67,536,7,Media/Technology,0,"United States"
+729,Cameron,Lopez,"1997-03-28 13:15:14.970170",3.29,753,7,Manufacturing,0,Italy
+730,Shawn,Gonzalez,"1996-07-16 10:15:14.970187",4.0,737,4,Retail,1,"United States"
+731,Connor,Lee,"1988-10-15 12:15:14.970203",3.65,679,4,Education/Government/Nonprofit,0,Germany
+732,Robert,Gonzalez,"1996-03-07 00:15:14.970221",3.38,748,3,Manufacturing,0,Chile
+733,Adam,Martinez,"1993-01-02 05:15:14.970239",2.73,733,6,Healthcare,0,Germany
+734,Alexander,Hernandez,"1992-02-02 09:15:14.970256",3.6,566,8,"Financial Services",0,"United States"
+735,Alexander,King,"1993-12-25 12:15:14.970272",3.04,734,3,Retail,1,"United States"
+736,Jared,Lee,"1995-02-06 02:15:14.970289",2.81,619,6,Consulting,0,"United States"
+737,Jose,Taylor,"1992-09-22 16:15:14.970306",4.0,800,7,Media/Technology,0,"United States"
+738,Logan,Garcia,"1990-02-23 12:15:14.970323",4.0,793,5,"Financial Services",0,"United States"
+739,Logan,Hernandez,"1990-05-28 10:15:14.970339",3.36,791,1,"Financial Services",0,"United States"
+740,Logan,Adams,"1996-10-19 06:15:14.970356",2.91,800,4,Healthcare,1,"South Africa"
+741,Eric,Hill,"1987-03-28 10:15:14.970373",4.0,758,7,Media/Technology,0,"United States"
+742,Hunter,Allen,"1997-06-11 09:15:14.970390",3.89,649,7,Healthcare,1,"United States"
+743,Jesse,Mitchell,"1991-01-26 09:15:14.970406",3.57,707,3,Other,0,"United States"
+744,Jesse,Lee,"1997-06-02 08:15:14.970423",3.95,558,6,Consulting,0,"United States"
+745,Jesse,Moore,"1994-09-29 09:15:14.970439",4.0,740,4,"Financial Services",1,"United States"
+746,Jesse,Smith,"1996-11-16 08:15:14.970456",3.71,777,0,Consulting,1,Italy
+747,Adrian,Wright,"1987-03-14 11:15:14.970473",3.4,692,7,Consulting,1,"United States"
+748,Adrian,Nelson,"1990-07-15 04:15:14.970490",2.62,800,4,"Financial Services",0,"United States"
+749,Adrian,Hall,"1996-07-10 13:15:14.970507",2.98,702,9,"Real Estate",1,Peru
+750,Kyle,Robinson,"1996-09-12 07:15:14.970524",3.12,719,2,Healthcare,1,Italy
