@@ -6,6 +6,9 @@ Desktop/
     ├── assignment1.sql
     ├── careers_data_setup.sql
     └── [additional SQL files]
+── dbs/
+├── country_club.db
+
 
 
 # Installation 
