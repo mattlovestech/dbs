@@ -1,3 +1,4 @@
+id,name,industry,number_of_employees,revenue,headquarters,on_campus_recruiter_2015,on_campus_recruiter_2016
 0,"McKinsey & Company",Consulting,11000,8400000000.0,"New York, NY, United States",1,1
 1,"Bain & Company",Consulting,5700,2100000000.0,"Boston, MA, United States",1,1
 2,"The Boston Consulting Group",Consulting,6200,5000000000.0,"Boston, MA, United States",1,1

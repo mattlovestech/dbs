@@ -1,3 +1,4 @@
+id,first_name,last_name,dob,gpa,gmat,work_experience,prior_industry,sponsored_student,home_country
 1,Victor,Harris,"1991-04-29 12:15:14.956621",3.95,738,6,Education/Government/Nonprofit,1,"United States"
 2,Victor,Taylor,"1998-01-18 06:15:14.957694",4.0,652,5,"Financial Services",1,Israel
 3,Victor,Parker,"1994-10-30 13:15:14.957717",3.36,669,7,"Real Estate",0,"United States"

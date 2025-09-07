@@ -73,6 +73,26 @@ from companies;
 
 /* 10.	Save the student_id, company_id, and total comp (salary + bonus + equity) 
 		of all of the accepted offers to a CSV file called accepted_offers.csv */
+.mode csv
+.once accepted_offers.csv
+select student_id, company_id,
+salary + bonus + equity as total_comp
+from offers
+where offer_accepted = 1;
+.mode column
 
 /* Bonus: 	Are there any students with the exact same name? e.g. Are there two John Smiths?
 			Write a comment explaining how you determined your answer. */
+
+/* There are many studnets with the exact same first name and last name. 
+I found this documentation below to help me find duplicates by grouping by the same and first and last name. 
+Then I only returned the groups that had more than 1, meaning there were duplicates. 
+
+Documentation: https://www.atlassian.com/data/sql/how-to-find-duplicate-values-in-a-sql-table
+*/
+
+select first_name, last_name, count(*) 
+from students 
+group by first_name, last_name 
+having count(*) > 1; --returns back many groups with the same first and last name.
+
