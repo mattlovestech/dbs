@@ -1,6 +1,7 @@
 # File Structure
 databases has the careers_data.db database. You need to run .read 
 
+## Get Started
 ## Run the Anaconda Installer
 
 Download the latest version of the Anaconda installer for Windows, OSX, or Linux (click the link to "Skip registration").
