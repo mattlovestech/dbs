@@ -1,18 +1,5 @@
 # File Structure
-This file structure mirrors the in-class assignments.
-
-Desktop/
-└── databases/
-    ├── assignment1.sql
-    ├── careers_data_setup.sql
-    └── [additional SQL files]
-── dbs/
-├── country_club.db
-
-
-
-# Installation 
-All you need to get going. 
+databases has the careers_data.db database. You need to run .read 
 
 ## Run the Anaconda Installer
 
