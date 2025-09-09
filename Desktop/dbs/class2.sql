@@ -97,3 +97,46 @@ select max(monthly_maintenance) as max_monthly_maintenance from facilities;
 
 /* records where monthly maintenance is the max */
 select * from facilities where monthly_maintenance = (select max(monthly_maintenance) from facilities);
+
+/* subqueries are queries inside of queries */
+select first_name, last_name, join_date from members where id = (select id from members order by join_date desc limit 1);
+
+/*joining tables together*/
+/* in joins you need an id = primary key in one table and foreign key in the other */
+select start_time
+from bookings
+join members 
+    on bookings.member_id = members.id
+where first_name = 'David' 
+and last_name = 'Jones';
+
+
+select * from bookings
+join members
+on bookings.member_id = members.id;
+
+/* JOIN LOGIC
+1) from [tables]
+2)  where [conditions]
+3) select [columns]
+4) order by limit, group by, asc, etc.
+*/
+
+
+/* get all member ids for people who have booked tennis courts 1 or 2 */
+select distinct member_id from bookings
+join facilities
+on bookings.facility_id = facilities.id
+where name = 'Tennis Court 1' 
+or name = 'Tennis Court 2' order by member_id asc;
+
+/* joining a table to itself */
+select members.first_name,
+members.last_name,
+recommenders.first_name,
+recommenders.last_name from members 
+join members as recommenders -- we are doing this because we want to see for each member who they were recommended by
+on members.recommended_by = recommenders.id;
+
+
+/* three way join of tables */
