@@ -1,8 +1,10 @@
+.mode column
+
 /* aggregate functions continue */
 
 select count(*) from members;
 
-/*
+/* these are the aggregate functions
 avg()
 min()
 max()
@@ -101,3 +103,13 @@ strftime('%Y-%m', start_time) as month,
 sum(slots) as total_slots
 from bookings
 group by facility_id, month;
+
+/* Where vs Having */
+
+select facility_id, count(*) as total_bookings --doesnt work in postgress because its not part of the initial table and is an alias
+from bookings 
+where start_time 
+between '2012-09-01' and '2012-10-01'
+group by facility_id
+having count(*) > 500
+order by total_bookings desc;
