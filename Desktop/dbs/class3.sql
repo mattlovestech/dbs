@@ -113,3 +113,17 @@ between '2012-09-01' and '2012-10-01'
 group by facility_id
 having count(*) > 500
 order by total_bookings desc;
+
+/*date_trunc is a function that truncates a date to the nearest unit of time*/
+
+/* joining and raising group by to the next level*/
+/* booking sby facility by month and add in the boookings table*/
+
+select facility_id,
+facilities.name,
+strftime('%Y-%m', start_time) as month,
+sum(slots) as total_slots
+from bookings
+join facilities
+on bookings.facility_id = facilities.id
+group by facility_id, month;
