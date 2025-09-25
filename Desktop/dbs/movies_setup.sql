@@ -7,7 +7,7 @@ drop table if exists movies; -- at the beginning of the file it will delete the 
 create table movies ( -- it could be a create unless exists
 -- list all columns
 id text primary key, --primary key we can join columns with
-title text not null unique,
+title text not null,
 year integer not null,
 score real default 0.0,
 votes integer default 0,
@@ -85,5 +85,65 @@ genre = 'Biography|Drama'
 where title = 'The Banker';
 
 -- delete from movies where title = 'Snow on tha Bluff';
+-- delete all movies with title containing 'Inside'
 delete from movies where id in 
 (select id from movies where title like '%Inside%');
+
+-- find duplicate titles
+-- Find duplicate titles (shows the titles and how many times they appear)
+select title, count(*) as occurrences
+from movies
+group by title
+having count(*) > 1;
+
+delete from movies where id = 'id';
+/* Take a peak at our movies table */
+
+select substr(title, 1, 5)
+from movies;
+
+select length(title)
+from movies limit 5;
+
+select substr(title, 1, length(title)-7), year
+from movies
+where title like '% (____)%'; --underscore is a wildcard for a single character
+
+select * from movies limit 5;
+update movies
+set title = substr(title, 1, length(title)-7)
+where title like '% (____)%';
+
+select * from movies limit 5;
+
+update movies set length = substr(length, 1, length(length)-6) where length like '% mins.%';
+select * from movies limit 5;
+
+drop table if exists movies_temp;
+alter table movies
+rename to movies_temp;
+
+.tables
+/* Create table */
+/*  */
+drop table if exists movies;
+create table movies (
+id integer primary key,
+imdb_id text,
+title text,
+year integer,
+score real, 
+votes integer,
+length integer,
+genre text
+);
+
+.tables
+
+/* copy data from movies_temp to movies */
+insert into movies (imdb_id, title, year, score, votes, length, genre)
+select id, title, year, score, votes, length, genre
+from movies_temp;
+
+drop table if exists movies_temp;
+.tables
