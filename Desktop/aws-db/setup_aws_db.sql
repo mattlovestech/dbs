@@ -19,18 +19,31 @@ create table customers (
 select * from customers limit 5;
 -- id,product_id,manufacturer,category,product,customer_id,sale_date,sale_time,quantity,price,sale_total
 create table sales (
-    id text primary key, -- unique identifier for each sale
-    product_id text not null, -- identifier for the product sold
-    manufacturer text not null, -- name of the product manufacturer
-    category text not null, -- product categories, comma-separated
-    product text not null, -- product name/description
-    customer_id text not null, -- id of the customer who made the purchase
-    sale_date text not null, -- date of the sale
-    sale_time text not null, -- time of the sale
-    quantity text not null, -- number of items sold
-    price text not null, -- price per item at sale
-    sale_total text not null -- total sale amount
+    id text primary key, 
+    product_id text not null,
+    manufacturer text not null,
+    category text not null, 
+    product text not null, 
+    customer_id text not null, 
+    sale_date text not null, 
+    sale_time text not null, 
+    quantity text not null, 
+    price text not null, 
+    sale_total text not null 
 );
 
 \copy sales from 'sales.csv' with delimiter ',' csv;
 select * from sales limit 1;
+
+-- https://www.postgresql.org/docs/9.5/sql-grant.html
+
+ /* remove existing roles */
+ drop role if exists analyst;
+
+ /* create new role */
+ create role analyst with login password 'analyst';
+
+ /* grant permissions to analyst */
+ grant select on customers to analyst;
+ grant select on sales to analyst;
+
